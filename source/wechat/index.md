@@ -68,7 +68,7 @@ date: 2022-05-22 16:46:46
       size: 300,
       background: "rgba(0,0,0,0)",
       foreground: "green",
-      level: "H",
+      level: "M",
       value:
         "vmess://eyJwcyI6IkpNUy01MDU5MTNAYzkzczgwMS5qYW1qYW1zLm5ldDoyODE4NiIsInBvcnQiOiIyODE4NiIsImlkIjoiMzk0NWU0NmItY2UzMy00YWNkLTgyYTctNTdjYjVhMTdiN2Q3IiwiYWlkIjowLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSIsInRscyI6Im5vbmUiLCJzbmkiOiIiLCJhZGQiOiJjOTNzODAxLmphbWphbXMubmV0In0",
     });
