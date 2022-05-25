@@ -3,6 +3,7 @@ title: wechat
 date: 2022-05-22 16:46:46
 ---
 
+<head>
   <style>
     .pic {
       text-align: center;
@@ -22,7 +23,6 @@ date: 2022-05-22 16:46:46
         fnDate();
       }, 1000);
     };
-
     function fnDate() {
       var oDiv = document.getElementById("time");
       var date = new Date();
