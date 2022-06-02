@@ -84,7 +84,22 @@ hexo d
 
 ```
 
-以下为我个人使用的指令，按需修改
+以下为本人自用懒人指令，按需修改
+
+> 未开启 pwa 支持
+
+```
+hexo cl
+git pull
+git add -A
+git commit -m "backup"
+git push origin backup
+hexo d
+hexo cl
+
+```
+
+> 已开启 pwa 支持
 
 ```
 hexo cl
