@@ -233,6 +233,8 @@ font:
 # Specify the path of your custom js file, support list. The path is relative to the source directory, such as `/js/custom.js` corresponding to the directory `source/js/custom.js`
 custom_js:
 
+custom_head: '<link rel="manifest" href="/manifest.json"><script src="/sw-register.js"></script>'
+
 # 指定自定义 .css 文件路径，用法和 custom_js 相同
 # The usage is the same as custom_js
 custom_css:
@@ -945,7 +947,7 @@ about:
   icons:
     - { class: "iconfont icon-mail", link: "mailto:god23812@gmail.com", tip: "Mail" }
     # - { class: 'iconfont icon-wechat-fill', qrcode: '/img/wechat.png' }
-    - { class: 'iconfont icon-wechat-fill', link: '/wechat' }
+    - { class: 'iconfont icon-wechat-fill', link: 'wechat' }
 
 
 

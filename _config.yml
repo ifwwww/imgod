@@ -121,6 +121,20 @@ nofollow:
     - "imgod.me"
     - "www.imgod.me"
 
+# offline config passed to sw-precache.（PWA）
+service_worker:
+  maximumFileSizeToCacheInBytes: 5242880
+  staticFileGlobs:
+    - public/**/*.{json,js,html,css,png,jpg,gif,svg,eot,ttf,woff,woff2}
+    - public/*.js
+  stripPrefix: public
+  verbose: false
+  runtimeCaching:
+    - urlPattern: /**/*
+      handler: cacheFirst
+      options:
+        - origin: imgod.me
+
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
