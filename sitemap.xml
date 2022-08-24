@@ -295,14 +295,14 @@
   </url>
   
   <url>
-    <loc>https://imgod.me/tags/Office365/</loc>
+    <loc>https://imgod.me/tags/%E8%87%AA%E5%BB%BA%E4%BA%91%E7%9B%98/</loc>
     <lastmod>2022-08-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://imgod.me/tags/%E8%87%AA%E5%BB%BA%E4%BA%91%E7%9B%98/</loc>
+    <loc>https://imgod.me/tags/Office365/</loc>
     <lastmod>2022-08-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -323,14 +323,14 @@
   </url>
   
   <url>
-    <loc>https://imgod.me/tags/Waline/</loc>
+    <loc>https://imgod.me/tags/unraid/</loc>
     <lastmod>2022-08-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://imgod.me/tags/unraid/</loc>
+    <loc>https://imgod.me/tags/Waline/</loc>
     <lastmod>2022-08-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -344,14 +344,14 @@
   </url>
   
   <url>
-    <loc>https://imgod.me/tags/%E6%9C%8D%E5%8A%A1%E5%99%A8%E9%9D%A2%E6%9D%BF/</loc>
+    <loc>https://imgod.me/tags/%E5%9F%9F%E5%90%8D%E9%80%89%E8%B4%AD/</loc>
     <lastmod>2022-08-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://imgod.me/tags/%E5%9F%9F%E5%90%8D%E9%80%89%E8%B4%AD/</loc>
+    <loc>https://imgod.me/tags/%E6%9C%8D%E5%8A%A1%E5%99%A8%E9%9D%A2%E6%9D%BF/</loc>
     <lastmod>2022-08-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -388,7 +388,7 @@
   </url>
   
   <url>
-    <loc>https://imgod.me/categories/Notes/E5/</loc>
+    <loc>https://imgod.me/categories/Note/</loc>
     <lastmod>2022-08-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -402,7 +402,7 @@
   </url>
   
   <url>
-    <loc>https://imgod.me/categories/Note/</loc>
+    <loc>https://imgod.me/categories/Notes/E5/</loc>
     <lastmod>2022-08-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -430,7 +430,7 @@
   </url>
   
   <url>
-    <loc>https://imgod.me/categories/Notes/Hexo/Waline/</loc>
+    <loc>https://imgod.me/categories/Note/Cloudreve/</loc>
     <lastmod>2022-08-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -444,7 +444,7 @@
   </url>
   
   <url>
-    <loc>https://imgod.me/categories/Note/Cloudreve/</loc>
+    <loc>https://imgod.me/categories/Notes/Hexo/Waline/</loc>
     <lastmod>2022-08-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -465,14 +465,14 @@
   </url>
   
   <url>
-    <loc>https://imgod.me/categories/%E6%9C%8D%E5%8A%A1%E5%99%A8%E9%9D%A2%E6%9D%BF/</loc>
+    <loc>https://imgod.me/categories/%E7%BD%91%E7%AB%99/</loc>
     <lastmod>2022-08-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://imgod.me/categories/%E7%BD%91%E7%AB%99/</loc>
+    <loc>https://imgod.me/categories/%E6%9C%8D%E5%8A%A1%E5%99%A8%E9%9D%A2%E6%9D%BF/</loc>
     <lastmod>2022-08-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
