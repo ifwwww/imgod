@@ -1207,7 +1207,7 @@ links:
   # Custom content at the bottom of the links
   custom:
     enable: true
-    content: '<hr><p>请在评论区回复友链信息 (请取消本站nofollow标签)</p><hr><br><p>先友后链，友链格式：</p><ul><li>title：故人随笔</li><li>intro：寒江孤影，江湖故人，相逢何必曾相识</li><li>link：https://imgod.me</li><li>avatar：https://imgod.me/img/god.png</li></ul><br><p><font style="color:red">不接受有任何政治言论的站点</font></p>'
+    content: '<hr><p>请在评论区回复友链信息</p><hr><br><p>先友后链，友链格式：</p><ul><li>title：故人随笔</li><li>intro：寒江孤影，江湖故人，相逢何必曾相识</li><li>link：https://imgod.me</li><li>avatar：https://imgod.me/img/god.png</li></ul><br><p><font style="color:red">不接受有任何政治言论的站点</font></p>'
 
   # 评论插件
   # Comment plugin
