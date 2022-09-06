@@ -234,8 +234,9 @@ font:
 custom_js:
 
 
-custom_head: '<script src="https://apps.bdimg.com/libs/jquery/2.1.4/jquery.min.js"></script>
-<script src="/js/link-checker.js"></script>'
+custom_head: '<script src="https://apps.bdimg.com/libs/jquery/2.1.4/jquery.min.js"> </script><script src="/js/link-checker.js"></script>'
+
+
 #'<link rel="manifest" href="/manifest.json"><script src="/sw-register.js"></script>'
 
 # 指定自定义 .css 文件路径，用法和 custom_js 相同
@@ -1198,12 +1199,18 @@ links:
       avatar: "http://q1.qlogo.cn/g?b=qq&nk=1527335101&s=640"
     }
     - {
+      title: "日博",
+      intro: "愿世界安康，愿你我皆好",
+      link: "https://rini.ma/",
+      avatar: "https://rini.ma/img/R.gif"
+    }
+    - {
       title: "博客名称",
       intro: "博客简介",
       link: "/",
       avatar: "logo"
     }
-
+    
 
   # 当成员头像加载失败时，替换为指定图片
   # When the member avatar fails to load, replace the specified image
