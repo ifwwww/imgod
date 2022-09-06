@@ -137,5 +137,5 @@ theme: fluid
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repo: git@github.com:imgod-me/imgod.me.git
+  repo: git@github.com:imyapear/imgod.me.git
   branch: main
