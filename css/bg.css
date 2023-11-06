@@ -1,0 +1,12 @@
+#page-header {
+  background-color: rgba(0, 0, 0, 0);
+}
+#footer {
+  background-color: rgba(0, 0, 0, 0);
+}
+#page-header:not(.not-top-img):before {
+  background-color: rgba(0, 0, 0, 0);
+}
+[data-theme="dark"] #web_bg:before {
+  background-color: rgba(0, 0, 0, 0);
+}

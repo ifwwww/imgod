@@ -1,0 +1,479 @@
+<!DOCTYPE html><html class="hide-aside" lang="zh-CN" data-theme="light"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible" content="IE=edge"><meta name="viewport" content="width=device-width, initial-scale=1.0,viewport-fit=cover"><title>故人随笔 - 故人</title><meta name="author" content="GOD"><meta name="copyright" content="GOD"><meta name="format-detection" content="telephone=no"><meta name="theme-color" content="#ffffff"><meta name="description" content="寒江孤影，江湖故人，相逢何必曾相识"><link rel="shortcut icon" href="/img/god.png"><link rel="canonical" href="https://imgod.me/page/2/index.html"><link rel="preconnect" href="//unpkg.com"/><link rel="stylesheet" href="/css/index.css"><link rel="stylesheet" href="https://unpkg.com/@fortawesome/fontawesome-free/css/all.min.css" media="print" onload="this.media='all'"><link rel="stylesheet" href="https://unpkg.com/node-snackbar/dist/snackbar.min.css" media="print" onload="this.media='all'"><link rel="stylesheet" href="https://unpkg.com/@fancyapps/ui/dist/fancybox/fancybox.css" media="print" onload="this.media='all'"><script>const GLOBAL_CONFIG = {
+  root: '/',
+  algolia: undefined,
+  localSearch: {"path":"/search.xml","preload":true,"top_n_per_article":1,"unescape":false,"languages":{"hits_empty":"找不到您查询的内容：${query}","hits_stats":"共找到 ${hits} 篇文章"}},
+  translate: {"defaultEncoding":2,"translateDelay":1,"msgToTraditionalChinese":"繁","msgToSimplifiedChinese":"簡"},
+  noticeOutdate: {"limitDay":365,"position":"top","messagePrev":"It has been","messageNext":"days since the last update, the content of the article may be outdated."},
+  highlight: {"plugin":"highlighjs","highlightCopy":true,"highlightLang":true,"highlightHeightLimit":false},
+  copy: {
+    success: '复制成功',
+    error: '复制错误',
+    noSupport: '浏览器不支持'
+  },
+  relativeDate: {
+    homepage: false,
+    post: false
+  },
+  runtime: '',
+  dateSuffix: {
+    just: '刚刚',
+    min: '分钟前',
+    hour: '小时前',
+    day: '天前',
+    month: '个月前'
+  },
+  copyright: {"limitCount":100,"languages":{"author":"作者: GOD","link":"链接: ","source":"来源: 故人随笔","info":"著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。"}},
+  lightbox: 'fancybox',
+  Snackbar: {"chs_to_cht":"你已切换为繁体中文","cht_to_chs":"你已切换为简体中文","day_to_night":"你已切换为深色模式","night_to_day":"你已切换为浅色模式","bgLight":"#49b1f5","bgDark":"#1f1f1f","position":"top-left"},
+  infinitegrid: {
+    js: 'https://unpkg.com/@egjs/infinitegrid/dist/infinitegrid.min.js',
+    buttonText: '加载更多'
+  },
+  isPhotoFigcaption: false,
+  islazyload: true,
+  isAnchor: true,
+  percent: {
+    toc: true,
+    rightside: true,
+  },
+  autoDarkmode: true
+}</script><script id="config-diff">var GLOBAL_CONFIG_SITE = {
+  title: '故人随笔',
+  isPost: false,
+  isHome: true,
+  isHighlightShrink: false,
+  isToc: false,
+  postUpdate: '2023-11-06 08:38:40'
+}</script><script>(win=>{
+      win.saveToLocal = {
+        set: (key, value, ttl) => {
+          if (ttl === 0) return
+          const now = Date.now()
+          const expiry = now + ttl * 86400000
+          const item = {
+            value,
+            expiry
+          }
+          localStorage.setItem(key, JSON.stringify(item))
+        },
+      
+        get: key => {
+          const itemStr = localStorage.getItem(key)
+      
+          if (!itemStr) {
+            return undefined
+          }
+          const item = JSON.parse(itemStr)
+          const now = Date.now()
+      
+          if (now > item.expiry) {
+            localStorage.removeItem(key)
+            return undefined
+          }
+          return item.value
+        }
+      }
+    
+      win.getScript = (url, attr = {}) => new Promise((resolve, reject) => {
+        const script = document.createElement('script')
+        script.src = url
+        script.async = true
+        script.onerror = reject
+        script.onload = script.onreadystatechange = function() {
+          const loadState = this.readyState
+          if (loadState && loadState !== 'loaded' && loadState !== 'complete') return
+          script.onload = script.onreadystatechange = null
+          resolve()
+        }
+
+        Object.keys(attr).forEach(key => {
+          script.setAttribute(key, attr[key])
+        })
+
+        document.head.appendChild(script)
+      })
+    
+      win.getCSS = (url, id = false) => new Promise((resolve, reject) => {
+        const link = document.createElement('link')
+        link.rel = 'stylesheet'
+        link.href = url
+        if (id) link.id = id
+        link.onerror = reject
+        link.onload = link.onreadystatechange = function() {
+          const loadState = this.readyState
+          if (loadState && loadState !== 'loaded' && loadState !== 'complete') return
+          link.onload = link.onreadystatechange = null
+          resolve()
+        }
+        document.head.appendChild(link)
+      })
+    
+      win.activateDarkMode = () => {
+        document.documentElement.setAttribute('data-theme', 'dark')
+        if (document.querySelector('meta[name="theme-color"]') !== null) {
+          document.querySelector('meta[name="theme-color"]').setAttribute('content', '#0d0d0d')
+        }
+      }
+      win.activateLightMode = () => {
+        document.documentElement.setAttribute('data-theme', 'light')
+        if (document.querySelector('meta[name="theme-color"]') !== null) {
+          document.querySelector('meta[name="theme-color"]').setAttribute('content', '#ffffff')
+        }
+      }
+      const t = saveToLocal.get('theme')
+    
+          const isDarkMode = window.matchMedia('(prefers-color-scheme: dark)').matches
+          const isLightMode = window.matchMedia('(prefers-color-scheme: light)').matches
+          const isNotSpecified = window.matchMedia('(prefers-color-scheme: no-preference)').matches
+          const hasNoSupport = !isDarkMode && !isLightMode && !isNotSpecified
+
+          if (t === undefined) {
+            if (isLightMode) activateLightMode()
+            else if (isDarkMode) activateDarkMode()
+            else if (isNotSpecified || hasNoSupport) {
+              const now = new Date()
+              const hour = now.getHours()
+              const isNight = hour <= 6 || hour >= 18
+              isNight ? activateDarkMode() : activateLightMode()
+            }
+            window.matchMedia('(prefers-color-scheme: dark)').addListener(e => {
+              if (saveToLocal.get('theme') === undefined) {
+                e.matches ? activateDarkMode() : activateLightMode()
+              }
+            })
+          } else if (t === 'light') activateLightMode()
+          else activateDarkMode()
+        
+      const asideStatus = saveToLocal.get('aside-status')
+      if (asideStatus !== undefined) {
+        if (asideStatus === 'hide') {
+          document.documentElement.classList.add('hide-aside')
+        } else {
+          document.documentElement.classList.remove('hide-aside')
+        }
+      }
+    
+      const detectApple = () => {
+        if(/iPad|iPhone|iPod|Macintosh/.test(navigator.userAgent)){
+          document.documentElement.classList.add('apple')
+        }
+      }
+      detectApple()
+    })(window)</script><link rel="stylesheet" href="https://imgod.me/css/scrollbar.css"><link rel="stylesheet" href="https://imgod.me/css/bg.css"><meta name="generator" content="Hexo 6.3.0"></head><body><div id="web_bg"></div><div id="sidebar"><div id="menu-mask"></div><div id="sidebar-menus"><div class="avatar-img is-center"><img src= "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-lazy-src="/img/god.png" onerror="onerror=null;src='/img/friend_404.gif'" alt="avatar"/></div><div class="sidebar-site-data site-data is-center"><a href="/archives/"><div class="headline">文章</div><div class="length-num">28</div></a><a href="/tags/"><div class="headline">标签</div><div class="length-num">28</div></a><a href="/categories/"><div class="headline">分类</div><div class="length-num">19</div></a></div><hr class="custom-hr"/><div class="menus_items"><div class="menus_item"><a class="site-page" href="/"><i class="fa-fw fas fa-home"></i><span> 首页</span></a></div><div class="menus_item"><a class="site-page" href="/archives/"><i class="fa-fw fas fa-archive"></i><span> 时间轴</span></a></div><div class="menus_item"><a class="site-page" href="/tags/"><i class="fa-fw fas fa-tags"></i><span> 标签</span></a></div><div class="menus_item"><a class="site-page" href="/categories/"><i class="fa-fw fas fa-folder-open"></i><span> 分类</span></a></div><div class="menus_item"><a class="site-page" href="/link/"><i class="fa-fw fas fa-link"></i><span> 友链</span></a></div><div class="menus_item"><a class="site-page" href="/about/"><i class="fa-fw fas fa-heart"></i><span> 关于</span></a></div></div></div></div><div class="page" id="body-wrap"><header class="full_page" id="page-header"><nav id="nav"><span id="blog-info"><a href="/" title="故人随笔"><span class="site-name">故人随笔</span></a></span><div id="menus"><div id="search-button"><a class="site-page social-icon search" href="javascript:void(0);"><i class="fas fa-search fa-fw"></i><span> 搜索</span></a></div><div class="menus_items"><div class="menus_item"><a class="site-page" href="/"><i class="fa-fw fas fa-home"></i><span> 首页</span></a></div><div class="menus_item"><a class="site-page" href="/archives/"><i class="fa-fw fas fa-archive"></i><span> 时间轴</span></a></div><div class="menus_item"><a class="site-page" href="/tags/"><i class="fa-fw fas fa-tags"></i><span> 标签</span></a></div><div class="menus_item"><a class="site-page" href="/categories/"><i class="fa-fw fas fa-folder-open"></i><span> 分类</span></a></div><div class="menus_item"><a class="site-page" href="/link/"><i class="fa-fw fas fa-link"></i><span> 友链</span></a></div><div class="menus_item"><a class="site-page" href="/about/"><i class="fa-fw fas fa-heart"></i><span> 关于</span></a></div></div><div id="toggle-menu"><a class="site-page" href="javascript:void(0);"><i class="fas fa-bars fa-fw"></i></a></div></div></nav><div id="site-info"><h1 id="site-title">故人随笔</h1><div id="site-subtitle"><span id="subtitle"></span></div><div id="site_social_icons"><a class="social-icon" href="mailto:w@imgod.me" target="_blank" title="Email"><i class="fas fa-envelope" style="color: #4a7dbe;"></i></a></div></div><div id="scroll-down"><i class="fas fa-angle-down scroll-down-effects"></i></div></header><main class="layout" id="content-inner"><div class="recent-posts" id="recent-posts"><div class="recent-post-item"><div class="recent-post-info no-cover"><a class="article-title" href="/posts/17812.html" title="google注册问题">google注册问题</a><div class="article-meta-wrap"><span class="post-meta-date"><i class="far fa-calendar-alt"></i><span class="article-meta-label">发表于</span><time datetime="2022-07-12T21:48:46.000Z" title="发表于 2022-07-13 05:48:46">2022-07-13</time></span><span class="article-meta"><span class="article-meta-separator">|</span><i class="fas fa-inbox"></i><a class="article-meta__categories" href="/categories/google/">google</a></span><span class="article-meta tags"><span class="article-meta-separator">|</span><i class="fas fa-tag"></i><a class="article-meta__tags" href="/tags/Google/">Google</a></span><span class="article-meta"><span class="article-meta-separator">|</span><i class="fas fa-comments"></i><a href="/posts/17812.html#post-comment"><span class="waline-comment-count" data-path="/posts/17812.html"><i class="fa-solid fa-spinner fa-spin"></i></span></a><span class="article-meta-label"> 条评论</span></span></div><div class="content">魔法工具必不可少，在 pc 端 chrome 浏览器，设置显示语言为英文，重启浏览器，之后按照提示注册，注册完成后改回中文
+</div></div></div><div class="recent-post-item"><div class="recent-post-info no-cover"><a class="article-title" href="/posts/25316.html" title="hexo部署遇到权限问题">hexo部署遇到权限问题</a><div class="article-meta-wrap"><span class="post-meta-date"><i class="far fa-calendar-alt"></i><span class="article-meta-label">发表于</span><time datetime="2022-07-12T21:21:55.000Z" title="发表于 2022-07-13 05:21:55">2022-07-13</time></span><span class="article-meta"><span class="article-meta-separator">|</span><i class="fas fa-inbox"></i><a class="article-meta__categories" href="/categories/Hexo/">Hexo</a></span><span class="article-meta tags"><span class="article-meta-separator">|</span><i class="fas fa-tag"></i><a class="article-meta__tags" href="/tags/Hexo/">Hexo</a></span><span class="article-meta"><span class="article-meta-separator">|</span><i class="fas fa-comments"></i><a href="/posts/25316.html#post-comment"><span class="waline-comment-count" data-path="/posts/25316.html"><i class="fa-solid fa-spinner fa-spin"></i></span></a><span class="article-meta-label"> 条评论</span></span></div><div class="content">在 hexo 部署中，有的电脑即使用管理员打开 cmd 执行命令也会遇到权限问题，可以尝试右键开始菜单，使用 windows powershell（管理员）来执行命令
+</div></div></div><div class="recent-post-item"><div class="recent-post-info no-cover"><a class="article-title" href="/posts/45777.html" title="waline怎么配置(本文只针对小白)">waline怎么配置(本文只针对小白)</a><div class="article-meta-wrap"><span class="post-meta-date"><i class="far fa-calendar-alt"></i><span class="article-meta-label">发表于</span><time datetime="2022-06-25T21:00:46.000Z" title="发表于 2022-06-26 05:00:46">2022-06-26</time></span><span class="article-meta"><span class="article-meta-separator">|</span><i class="fas fa-inbox"></i><a class="article-meta__categories" href="/categories/Waline/">Waline</a></span><span class="article-meta tags"><span class="article-meta-separator">|</span><i class="fas fa-tag"></i><a class="article-meta__tags" href="/tags/Hexo/">Hexo</a><span class="article-meta-link">•</span><a class="article-meta__tags" href="/tags/Notes/">Notes</a><span class="article-meta-link">•</span><a class="article-meta__tags" href="/tags/Waline/">Waline</a></span><span class="article-meta"><span class="article-meta-separator">|</span><i class="fas fa-comments"></i><a href="/posts/45777.html#post-comment"><span class="waline-comment-count" data-path="/posts/45777.html"><i class="fa-solid fa-spinner fa-spin"></i></span></a><span class="article-meta-label"> 条评论</span></span></div><div class="content">评论系统 waline
+安装Ⅰ 注册 leancloud(尽量注册国际版，省掉很多麻烦事)Ⅱ 注册 vercelⅢ vercel部署Ⅳ 配置环境变量LEAN_ID, LEAN_KEY 和 LEAN_MASTER_KEYⅤ 重新部署Ⅵ 引入博客(至于博客内部配置是看主题的，不同主题不同格式，搜文档就行)
+123456789101112131415serverURL: &#x27;xxx.imgod.me&#x27;path: window.location.pathnameplaceholder: 有问题请留言！meta: [&#x27;nick&#x27;, &#x27;mail&#x27;, &#x27;link&#x27;]requiredMeta: [&#x27;nick&#x27;,&#x27;mail&#x27;]lang: &#x27;zh-CN&#x27;emoji: [&#x27;https://cdn.jsdelivr.net/gh/walinejs/emojis/weibo&#x27;]dark: &#x27;html[data-user-color-scheme= ...</div></div></div><div class="recent-post-item"><div class="recent-post-info no-cover"><a class="article-title" href="/posts/34639.html" title="NexT主题美化之添加3D访问量地图（6.25更新）">NexT主题美化之添加3D访问量地图（6.25更新）</a><div class="article-meta-wrap"><span class="post-meta-date"><i class="far fa-calendar-alt"></i><span class="article-meta-label">发表于</span><time datetime="2022-06-24T16:13:10.000Z" title="发表于 2022-06-25 00:13:10">2022-06-25</time></span><span class="article-meta"><span class="article-meta-separator">|</span><i class="fas fa-inbox"></i><a class="article-meta__categories" href="/categories/NexT/">NexT</a></span><span class="article-meta tags"><span class="article-meta-separator">|</span><i class="fas fa-tag"></i><a class="article-meta__tags" href="/tags/Notes/">Notes</a><span class="article-meta-link">•</span><a class="article-meta__tags" href="/tags/NexT/">NexT</a></span><span class="article-meta"><span class="article-meta-separator">|</span><i class="fas fa-comments"></i><a href="/posts/34639.html#post-comment"><span class="waline-comment-count" data-path="/posts/34639.html"><i class="fa-solid fa-spinner fa-spin"></i></span></a><span class="article-meta-label"> 条评论</span></span></div><div class="content">RevolverMaps 3D 地球仪小组件
+
+
+
+RevolverMaps 是一个免费的 3D 地球的小部件官方的描述是：RevolverMaps Standard GL 显示访问者的位置以及从安装到您的站点时的访问次数。最近的访问者位置被动画和标记，新的访问者位置出现在地球上。单击小部件底部的按钮可打开公共实时统计页面，提供有关访问者的详细信息。将这个小部件安装到我们的博客还是蛮好看的，所以我这篇文章记录一下 NexT 主题在侧边栏添加 RevolverMaps
+
+首先我们访问RevolverMaps官网生成代码插件外观方面按需设置即可，默认也可以设置完成后，我们点击 copy to clipboard 按钮(最下面的复制到剪贴板)打开主题下的 site-overview.njk 文件路径为blog\themes\next\layout_partials\sidebar\site-overview.njk翻到最底部代码为
+12345678910111213141516&#123;# Blogroll #&#125;&#123;%- if theme.links %&#125;  & ...</div></div></div><div class="recent-post-item"><div class="recent-post-info no-cover"><a class="article-title" href="/posts/19902.html" title="国内服务器面板使用体验">国内服务器面板使用体验</a><div class="article-meta-wrap"><span class="post-meta-date"><i class="far fa-calendar-alt"></i><span class="article-meta-label">发表于</span><time datetime="2022-06-20T21:05:59.000Z" title="发表于 2022-06-21 05:05:59">2022-06-21</time></span><span class="article-meta"><span class="article-meta-separator">|</span><i class="fas fa-inbox"></i><a class="article-meta__categories" href="/categories/%E6%9C%8D%E5%8A%A1%E5%99%A8%E9%9D%A2%E6%9D%BF/">服务器面板</a></span><span class="article-meta tags"><span class="article-meta-separator">|</span><i class="fas fa-tag"></i><a class="article-meta__tags" href="/tags/%E6%9C%8D%E5%8A%A1%E5%99%A8%E9%9D%A2%E6%9D%BF/">服务器面板</a></span><span class="article-meta"><span class="article-meta-separator">|</span><i class="fas fa-comments"></i><a href="/posts/19902.html#post-comment"><span class="waline-comment-count" data-path="/posts/19902.html"><i class="fa-solid fa-spinner fa-spin"></i></span></a><span class="article-meta-label"> 条评论</span></span></div><div class="content">由于本人在使用宝塔国际版的时候没有清除数据就直接强制安装宝塔国内版导致账号被封，所以不得不找一个好用的面板，也就有了让我体验这么多管理面板的机会。
+国内的服务器管理面板有哪些？宝塔面板、AMH、小皮面板、护卫神、appnode、旗鱼云梯、云帮手……
+最后两个面板我并没有安装体验，所以本文不谈旗鱼云梯和云帮手
+先说小皮面板、护卫神以及 appnode小皮面板
+整体页面跟宝塔相似，但软件版本太低,并不止一个软件，而是很多软件版本都低pass
+护卫神
+连反向代理功能都没有，我是用来部署 cloudreve，必须用反向代理pass
+appnode
+已经停止运营,社区基本没有解答问题的人pass
+AMH 面板和宝塔面板比较（重点）AMH 面板 —— 宝塔面板页面展示amh安装完成后 amh 首页
+宝塔面板
+
+对比amh整体页面风格给人一种复古的感觉（丑），我体验的是 6.xx 版本（但截图是最新版本），具体版本号忘了，7.0 版本已经更新，看着还不错，软件包基本都是最新版本，amh 面板以我这几天的体验更多的是一个单纯的可视化面板，包括网站数据库、反向代理甚至 ssl 证书都要手动安装软件并配置 ...</div></div></div><div class="recent-post-item"><div class="recent-post-info no-cover"><a class="article-title" href="/posts/53748.html" title="hexo博客添加PWA支持">hexo博客添加PWA支持</a><div class="article-meta-wrap"><span class="post-meta-date"><i class="far fa-calendar-alt"></i><span class="article-meta-label">发表于</span><time datetime="2022-06-20T16:49:21.000Z" title="发表于 2022-06-21 00:49:21">2022-06-21</time></span><span class="article-meta"><span class="article-meta-separator">|</span><i class="fas fa-inbox"></i><a class="article-meta__categories" href="/categories/Hexo/">Hexo</a></span><span class="article-meta tags"><span class="article-meta-separator">|</span><i class="fas fa-tag"></i><a class="article-meta__tags" href="/tags/Hexo/">Hexo</a><span class="article-meta-link">•</span><a class="article-meta__tags" href="/tags/Notes/">Notes</a></span><span class="article-meta"><span class="article-meta-separator">|</span><i class="fas fa-comments"></i><a href="/posts/53748.html#post-comment"><span class="waline-comment-count" data-path="/posts/53748.html"><i class="fa-solid fa-spinner fa-spin"></i></span></a><span class="article-meta-label"> 条评论</span></span></div><div class="content">先挂出参考地址:
+
+Hexo Theme Fluid
+
+
+吃白饭的休伯利安号
+
+本人参考的是 fluid 主题的文章，第二个是作者的原文，这两个地址写的教程也是完全一样的，随便参考哪个都可以
+这里记录一下遇到的问题最重要的就是 PWA 插件hexo-service-worker插件装不上
+原因自行百度不做过多赘述
+直接说解决方案
+
+强制安装
+
+npm install --save hexo-service-worker --force
+其他配置参考文章开头链接即可
+全部搞定以后hexo s浏览器 f12 找到 lighthouse 生成报告，如果没问题就会像下图显示的一样
+
+还有一个小问题，开启 pwa 支持以后，不能直接hexo d(我为了省事有这个毛病，坏习惯)，必须先hexo g生成静态文件才可以hexo d,也可以hexo g -d
+end
+</div></div></div><div class="recent-post-item"><div class="recent-post-info no-cover"><a class="article-title" href="/posts/731.html" title="通过飞书开通个性域名邮箱">通过飞书开通个性域名邮箱</a><div class="article-meta-wrap"><span class="post-meta-date"><i class="far fa-calendar-alt"></i><span class="article-meta-label">发表于</span><time datetime="2022-05-01T03:39:34.000Z" title="发表于 2022-05-01 11:39:34">2022-05-01</time></span><span class="article-meta"><span class="article-meta-separator">|</span><i class="fas fa-inbox"></i><a class="article-meta__categories" href="/categories/Email/">Email</a></span><span class="article-meta tags"><span class="article-meta-separator">|</span><i class="fas fa-tag"></i><a class="article-meta__tags" href="/tags/%E7%A7%81%E4%BA%BA%E9%82%AE%E7%AE%B1/">私人邮箱</a></span><span class="article-meta"><span class="article-meta-separator">|</span><i class="fas fa-comments"></i><a href="/posts/731.html#post-comment"><span class="waline-comment-count" data-path="/posts/731.html"><i class="fa-solid fa-spinner fa-spin"></i></span></a><span class="article-meta-label"> 条评论</span></span></div><div class="content">飞书设置注册飞书账号点击这里注册飞书
+进入管理后台点击这里
+进入邮箱配置页面
+输入域名并提交
+按提示在 dns 解析服务商录入以下四条解析记录
+
+解析完成后回到飞书域名验证界面，点击验证
+这里是必须分配成员，点击立即配置，按照提示添加，输入前缀即可
+下一步
+开通公共邮箱，进入公共邮箱配置界面
+名称随意，地址需要填入前缀，成员把自己添加进去（新注册帐户的话应该只有自己），勾选 IMAP&#x2F;SMTP 服务，创建
+创建完成后，需要修改一下密码
+
+修改完成后，确认即可第三方登录这里我已 Windows 版网易邮箱大师为例其他邮箱客户端请参考
+
+邮箱地址以及密码就是公共邮箱的地址和密码
+
+IMAP 服务器，端口，加密，SMTP 服务器按图填入
+12收信服务器（IMAP）地址：imap.feishu.cn，端口号：993发信服务器（SMTP）地址：smtp.feishu.cn，端口号：465（iOS 用户输入 587）
+
+
+填完以后点击确认即可使用
+
+</div></div></div><div class="recent-post-item"><div class="recent-post-info no-cover"><a class="article-title" href="/posts/57388.html" title="域名注册及选购指南">域名注册及选购指南</a><div class="article-meta-wrap"><span class="post-meta-date"><i class="far fa-calendar-alt"></i><span class="article-meta-label">发表于</span><time datetime="2022-04-26T00:58:36.000Z" title="发表于 2022-04-26 08:58:36">2022-04-26</time></span><span class="article-meta"><span class="article-meta-separator">|</span><i class="fas fa-inbox"></i><a class="article-meta__categories" href="/categories/%E7%BD%91%E7%AB%99/">网站</a></span><span class="article-meta tags"><span class="article-meta-separator">|</span><i class="fas fa-tag"></i><a class="article-meta__tags" href="/tags/%E5%9F%9F%E5%90%8D%E9%80%89%E8%B4%AD/">域名选购</a></span><span class="article-meta"><span class="article-meta-separator">|</span><i class="fas fa-comments"></i><a href="/posts/57388.html#post-comment"><span class="waline-comment-count" data-path="/posts/57388.html"><i class="fa-solid fa-spinner fa-spin"></i></span></a><span class="article-meta-label"> 条评论</span></span></div><div class="content">域名注册域名注册商分两类：1.中国大陆本土的域名注册商：阿里万网、华为云、腾讯云、新网以及西部数码…没什么可说的，基本价格差距不大，挑便宜买就好，域名没有什么乱七八糟的讲究，实名认证以后就可以直接解析
+2.除中国大陆以外的域名注册商：Godaddy、Namecheap、 NameSilo 以及 cloudflare…Godaddy:优点:地区切换为新加坡有简体中文，对于咱们说中文的人来说蛮友好的，据说有新加坡中文客服，(但是我的亲身经历是，用英文从晚上十一点聊到凌晨一点，没解决问题，没解决就罢了，连原因都找不出来)缺点:贵，而且套路，套路还是 tmd 套路建议:如果价格碰上优惠力度大的话，买第一年就可以，第二年太 tm 贵了，跟国内的服务商一个套路，但国内的是第一年亏本，godaddy 是 tm 第一年就赚钱，第二年更 tm 赚钱
+Namecheap优点：比 godaddy 便宜，有免费域名隐私保护缺点：但还是偏贵建议：活动价可以考虑
+NameSilo（本人在用）优点：价格良心，第二年续费价格不变，免费域名隐私保护缺点：没中文，网页翻译勉强能看明白，官网样式很老建议：优惠码ONESAV ...</div></div></div><div class="recent-post-item"><div class="recent-post-info no-cover"><a class="article-title" href="/posts/64618.html" title="故人随笔之狗屁不通">故人随笔之狗屁不通</a><div class="article-meta-wrap"><span class="post-meta-date"><i class="far fa-calendar-alt"></i><span class="article-meta-label">发表于</span><time datetime="2022-04-15T20:08:40.000Z" title="发表于 2022-04-16 04:08:40">2022-04-16</time></span><span class="article-meta"><span class="article-meta-separator">|</span><i class="fas fa-inbox"></i><a class="article-meta__categories" href="/categories/%E7%9E%8E%E5%93%94%E5%93%94/">瞎哔哔</a></span><span class="article-meta tags"><span class="article-meta-separator">|</span><i class="fas fa-tag"></i><a class="article-meta__tags" href="/tags/%E7%8B%97%E5%B1%81%E4%B8%8D%E9%80%9A/">狗屁不通</a></span><span class="article-meta"><span class="article-meta-separator">|</span><i class="fas fa-comments"></i><a href="/posts/64618.html#post-comment"><span class="waline-comment-count" data-path="/posts/64618.html"><i class="fa-solid fa-spinner fa-spin"></i></span></a><span class="article-meta-label"> 条评论</span></span></div><div class="content">故人随笔在这种困难的抉择下，本人思来想去，寝食难安。 本人也是经过了深思熟虑，在每个日日夜夜思考这个问题。 我们一般认为，抓住了问题的关键，其他一切则会迎刃而解。 一般来说， 我认为， 裴斯泰洛齐曾经提到过，今天应做的事没有做，明天再早也是耽误了。带着这句话，我们还要更加慎重的审视这个问题： 本人也是经过了深思熟虑，在每个日日夜夜思考这个问题。 一般来讲，我们都必须务必慎重的考虑考虑。 故人随笔因何而发生？ 对我个人而言，故人随笔不仅仅是一个重大的事件，还可能会改变我的人生。 这样看来， 一般来说， 问题的关键究竟为何？ 雷锋曾经提到过，自己活着，就是为了使别人过得更美好。我希望诸位也能好好地体会这句话。 了解清楚故人随笔到底是一种怎么样的存在，是解决一切问题的关键。 从这个角度来看， 我们都知道，只要有意义，那么就必须慎重考虑。 那么， 这样看来， 左拉说过一句富有哲理的话，生活的道路一旦选定，就要勇敢地走到底，决不回头。这不禁令我深思。 歌德在不经意间这样说过，意志坚强的人能把世界放在手中像泥块一样任意揉捏。我希望诸位也能好好地体会这句话。 黑格尔说过一句富有哲理的话，只有永远躺在 ...</div></div></div><div class="recent-post-item"><div class="recent-post-info no-cover"><a class="article-title" href="/posts/60161.html" title="插件记录">插件记录</a><div class="article-meta-wrap"><span class="post-meta-date"><i class="far fa-calendar-alt"></i><span class="article-meta-label">发表于</span><time datetime="2022-03-20T19:21:33.000Z" title="发表于 2022-03-21 03:21:33">2022-03-21</time></span><span class="article-meta"><span class="article-meta-separator">|</span><i class="fas fa-inbox"></i><a class="article-meta__categories" href="/categories/Hexo/">Hexo</a></span><span class="article-meta tags"><span class="article-meta-separator">|</span><i class="fas fa-tag"></i><a class="article-meta__tags" href="/tags/Hexo/">Hexo</a><span class="article-meta-link">•</span><a class="article-meta__tags" href="/tags/Notes/">Notes</a><span class="article-meta-link">•</span><a class="article-meta__tags" href="/tags/butterfly/">butterfly</a></span><span class="article-meta"><span class="article-meta-separator">|</span><i class="fas fa-comments"></i><a href="/posts/60161.html#post-comment"><span class="waline-comment-count" data-path="/posts/60161.html"><i class="fa-solid fa-spinner fa-spin"></i></span></a><span class="article-meta-label"> 条评论</span></span></div><div class="content">插件 (防止丢失)
+hexo-deplayer-git
+
+1npm install hexo-deployer-git --save
+
+
+hexo-asset-image不必多说,必装的图片插件
+
+1npm install hexo-asset-image --save
+
+**_config.yml** 配置文件
+
+1post_asset_folder: false改为true
+
+
+hexo-abbrlink解决站点链接中文编码问题(此插件会与图片插件产生冲突,解决方案参考此文章)
+
+1npm install hexo-abbrlink --save
+
+_config.yml 配置文件
+123456# permalink: :year/:month/:day/:title/# permalink_defaults:permalink: posts/:abbrlink.htmlabbrlink:  # alg: crc32 #算法： crc16(default) and crc32  rep: dec #进制： dec(default) and hex
+
+
+hexo-renderer-p ...</div></div></div><nav id="pagination"><div class="pagination"><a class="extend prev" rel="prev" href="/"><i class="fas fa-chevron-left fa-fw"></i></a><a class="page-number" href="/">1</a><span class="page-number current">2</span><a class="page-number" href="/page/3/#content-inner">3</a><a class="extend next" rel="next" href="/page/3/#content-inner"><i class="fas fa-chevron-right fa-fw"></i></a></div></nav></div><div class="aside-content" id="aside-content"><div class="card-widget card-info"><div class="is-center"><div class="avatar-img"><img src= "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-lazy-src="/img/god.png" onerror="this.onerror=null;this.src='/img/friend_404.gif'" alt="avatar"/></div><div class="author-info__name">GOD</div><div class="author-info__description">寒江孤影，江湖故人，相逢何必曾相识</div></div><div class="card-info-data site-data is-center"><a href="/archives/"><div class="headline">文章</div><div class="length-num">28</div></a><a href="/tags/"><div class="headline">标签</div><div class="length-num">28</div></a><a href="/categories/"><div class="headline">分类</div><div class="length-num">19</div></a></div><div class="card-info-social-icons is-center"><a class="social-icon" href="mailto:w@imgod.me" target="_blank" title="Email"><i class="fas fa-envelope" style="color: #4a7dbe;"></i></a></div></div><div class="card-widget card-announcement"><div class="item-headline"><i class="fas fa-bullhorn fa-shake"></i><span>公告</span></div><div class="announcement_content">This is my Blog</div></div><div class="sticky_layout"><div class="card-widget card-recent-post"><div class="item-headline"><i class="fas fa-history"></i><span>最新文章</span></div><div class="aside-list"><div class="aside-list-item no-cover"><div class="content"><a class="title" href="/posts/39481.html" title="宝藏软件收藏单">宝藏软件收藏单</a><time datetime="2023-08-19T10:16:12.000Z" title="发表于 2023-08-19 18:16:12">2023-08-19</time></div></div><div class="aside-list-item no-cover"><div class="content"><a class="title" href="/posts/8008.html" title="WARP+无限流量">WARP+无限流量</a><time datetime="2023-07-10T07:15:05.000Z" title="发表于 2023-07-10 15:15:05">2023-07-10</time></div></div><div class="aside-list-item no-cover"><div class="content"><a class="title" href="/posts/12676.html" title="vercel托管的网站无法访问">vercel托管的网站无法访问</a><time datetime="2023-06-21T10:37:23.000Z" title="发表于 2023-06-21 18:37:23">2023-06-21</time></div></div><div class="aside-list-item no-cover"><div class="content"><a class="title" href="/posts/45293.html" title="华为电脑管家开启智慧语音和ai字幕">华为电脑管家开启智慧语音和ai字幕</a><time datetime="2023-01-13T15:41:20.000Z" title="发表于 2023-01-13 23:41:20">2023-01-13</time></div></div><div class="aside-list-item no-cover"><div class="content"><a class="title" href="/posts/61099.html" title="ProxmoxVE操作指南(已更新至pve8.0)">ProxmoxVE操作指南(已更新至pve8.0)</a><time datetime="2023-01-09T17:26:38.000Z" title="发表于 2023-01-10 01:26:38">2023-01-10</time></div></div></div></div><div class="card-widget" id="card-newest-comments"><div class="item-headline"><i class="fas fa-comment-dots"></i><span>最新评论</span></div><div class="aside-list"><span>正在加载中...</span></div></div><div class="card-widget card-categories"><div class="item-headline">
+            <i class="fas fa-folder-open"></i>
+            <span>分类</span>
+            <a class="card-more-btn" href="/categories/" title="查看更多">
+    <i class="fas fa-angle-right"></i></a>
+            </div>
+            <ul class="card-category-list" id="aside-cat-list">
+            <li class="card-category-list-item "><a class="card-category-list-link" href="/categories/Email/"><span class="card-category-list-name">Email</span><span class="card-category-list-count">1</span></a></li><li class="card-category-list-item "><a class="card-category-list-link" href="/categories/Hello-World/"><span class="card-category-list-name">Hello World</span><span class="card-category-list-count">1</span></a></li><li class="card-category-list-item "><a class="card-category-list-link" href="/categories/Hexo/"><span class="card-category-list-name">Hexo</span><span class="card-category-list-count">8</span></a></li><li class="card-category-list-item "><a class="card-category-list-link" href="/categories/NexT/"><span class="card-category-list-name">NexT</span><span class="card-category-list-count">2</span></a></li><li class="card-category-list-item "><a class="card-category-list-link" href="/categories/Office365/"><span class="card-category-list-name">Office365</span><span class="card-category-list-count">1</span></a></li><li class="card-category-list-item "><a class="card-category-list-link" href="/categories/PVE/"><span class="card-category-list-name">PVE</span><span class="card-category-list-count">1</span></a></li><li class="card-category-list-item "><a class="card-category-list-link" href="/categories/Vscode/"><span class="card-category-list-name">Vscode</span><span class="card-category-list-count">1</span></a></li><li class="card-category-list-item "><a class="card-category-list-link" href="/categories/WARP/"><span class="card-category-list-name">WARP+</span><span class="card-category-list-count">1</span></a></li>
+            </ul></div><div class="card-widget card-tags"><div class="item-headline"><i class="fas fa-tags"></i><span>标签</span></div><div class="card-tag-cloud"><a href="/tags/kodbox/" style="font-size: 1.1em; color: #999">kodbox</a> <a href="/tags/%E5%9F%9F%E5%90%8D%E9%80%89%E8%B4%AD/" style="font-size: 1.1em; color: #999">域名选购</a> <a href="/tags/Office365/" style="font-size: 1.1em; color: #999">Office365</a> <a href="/tags/WARP/" style="font-size: 1.1em; color: #999">WARP+</a> <a href="/tags/%E8%87%AA%E5%BB%BA%E4%BA%91%E7%9B%98/" style="font-size: 1.23em; color: #999ea6">自建云盘</a> <a href="/tags/%E7%99%BD%E5%AB%96/" style="font-size: 1.1em; color: #999">白嫖</a> <a href="/tags/Vscode/" style="font-size: 1.1em; color: #999">Vscode</a> <a href="/tags/Hexo/" style="font-size: 1.37em; color: #99a4b2">Hexo</a> <a href="/tags/Notes/" style="font-size: 1.5em; color: #99a9bf">Notes</a> <a href="/tags/vercel/" style="font-size: 1.1em; color: #999">vercel</a> <a href="/tags/software/" style="font-size: 1.1em; color: #999">software</a> <a href="/tags/%E7%A7%81%E4%BA%BA%E9%82%AE%E7%AE%B1/" style="font-size: 1.1em; color: #999">私人邮箱</a> <a href="/tags/Waline/" style="font-size: 1.1em; color: #999">Waline</a> <a href="/tags/NAS/" style="font-size: 1.1em; color: #999">NAS</a> <a href="/tags/butterfly/" style="font-size: 1.1em; color: #999">butterfly</a> <a href="/tags/%E7%8B%97%E5%B1%81%E4%B8%8D%E9%80%9A/" style="font-size: 1.1em; color: #999">狗屁不通</a> <a href="/tags/%E5%9B%BE%E5%BA%8A/" style="font-size: 1.1em; color: #999">图床</a> <a href="/tags/PVE/" style="font-size: 1.1em; color: #999">PVE</a> <a href="/tags/%E7%94%B5%E8%84%91%E7%AE%A1%E5%AE%B6/" style="font-size: 1.1em; color: #999">电脑管家</a> <a href="/tags/Butterfly/" style="font-size: 1.1em; color: #999">Butterfly</a> <a href="/tags/Cloudreve/" style="font-size: 1.1em; color: #999">Cloudreve</a> <a href="/tags/NexT/" style="font-size: 1.23em; color: #999ea6">NexT</a> <a href="/tags/Docker/" style="font-size: 1.1em; color: #999">Docker</a> <a href="/tags/Note/" style="font-size: 1.23em; color: #999ea6">Note</a> <a href="/tags/%E6%9C%8D%E5%8A%A1%E5%99%A8%E9%9D%A2%E6%9D%BF/" style="font-size: 1.1em; color: #999">服务器面板</a> <a href="/tags/Google/" style="font-size: 1.1em; color: #999">Google</a> <a href="/tags/unraid/" style="font-size: 1.1em; color: #999">unraid</a> <a href="/tags/Hello-World/" style="font-size: 1.1em; color: #999">Hello World</a></div></div><div class="card-widget card-archives"><div class="item-headline"><i class="fas fa-archive"></i><span>归档</span><a class="card-more-btn" href="/archives/" title="查看更多">
+    <i class="fas fa-angle-right"></i></a></div><ul class="card-archive-list"><li class="card-archive-list-item"><a class="card-archive-list-link" href="/archives/2023/08/"><span class="card-archive-list-date">八月 2023</span><span class="card-archive-list-count">1</span></a></li><li class="card-archive-list-item"><a class="card-archive-list-link" href="/archives/2023/07/"><span class="card-archive-list-date">七月 2023</span><span class="card-archive-list-count">1</span></a></li><li class="card-archive-list-item"><a class="card-archive-list-link" href="/archives/2023/06/"><span class="card-archive-list-date">六月 2023</span><span class="card-archive-list-count">1</span></a></li><li class="card-archive-list-item"><a class="card-archive-list-link" href="/archives/2023/01/"><span class="card-archive-list-date">一月 2023</span><span class="card-archive-list-count">2</span></a></li><li class="card-archive-list-item"><a class="card-archive-list-link" href="/archives/2022/11/"><span class="card-archive-list-date">十一月 2022</span><span class="card-archive-list-count">1</span></a></li><li class="card-archive-list-item"><a class="card-archive-list-link" href="/archives/2022/10/"><span class="card-archive-list-date">十月 2022</span><span class="card-archive-list-count">1</span></a></li><li class="card-archive-list-item"><a class="card-archive-list-link" href="/archives/2022/09/"><span class="card-archive-list-date">九月 2022</span><span class="card-archive-list-count">1</span></a></li><li class="card-archive-list-item"><a class="card-archive-list-link" href="/archives/2022/08/"><span class="card-archive-list-date">八月 2022</span><span class="card-archive-list-count">1</span></a></li></ul></div><div class="card-widget card-webinfo"><div class="item-headline"><i class="fas fa-chart-line"></i><span>网站资讯</span></div><div class="webinfo"><div class="webinfo-item"><div class="item-name">文章数目 :</div><div class="item-count">28</div></div><div class="webinfo-item"><div class="item-name">最后更新时间 :</div><div class="item-count" id="last-push-date" data-lastPushDate="2023-11-06T00:38:39.912Z"><i class="fa-solid fa-spinner fa-spin"></i></div></div></div></div></div></div></main><footer id="footer"><div id="footer-wrap"><div class="framework-info"><span>框架 </span><a target="_blank" rel="noopener" href="https://hexo.io">Hexo</a><span class="footer-separator">|</span><span>主题 </span><a target="_blank" rel="noopener" href="https://github.com/jerryc127/hexo-theme-butterfly">Butterfly</a></div></div></footer></div><div id="rightside"><div id="rightside-config-hide"><button id="translateLink" type="button" title="简繁转换">繁</button><button id="darkmode" type="button" title="浅色和深色模式转换"><i class="fas fa-adjust"></i></button><button id="hide-aside-btn" type="button" title="单栏和双栏切换"><i class="fas fa-arrows-alt-h"></i></button></div><div id="rightside-config-show"><button id="rightside-config" type="button" title="设置"><i class="fas fa-cog fa-spin"></i></button><button id="go-up" type="button" title="回到顶部"><span class="scroll-percent"></span><i class="fas fa-arrow-up"></i></button></div></div><div><script src="/js/utils.js"></script><script src="/js/main.js"></script><script src="/js/tw_cn.js"></script><script src="https://unpkg.com/@fancyapps/ui/dist/fancybox/fancybox.umd.js"></script><script src="https://unpkg.com/instant.page/instantpage.js" type="module"></script><script src="https://unpkg.com/vanilla-lazyload/dist/lazyload.iife.min.js"></script><script src="https://unpkg.com/node-snackbar/dist/snackbar.min.js"></script><script>function panguFn () {
+  if (typeof pangu === 'object') pangu.autoSpacingPage()
+  else {
+    getScript('https://unpkg.com/pangu/dist/browser/pangu.min.js')
+      .then(() => {
+        pangu.autoSpacingPage()
+      })
+  }
+}
+
+function panguInit () {
+  if (true){
+    GLOBAL_CONFIG_SITE.isPost && panguFn()
+  } else {
+    panguFn()
+  }
+}
+
+document.addEventListener('DOMContentLoaded', panguInit)</script><div class="js-pjax"><script>(() => {
+  async function loadWaline () {
+    try {
+      const eleGroup = document.querySelectorAll('#recent-posts .waline-comment-count')
+      const keyArray = Array.from(eleGroup).map(i => i.getAttribute('data-path'))
+
+      const res = await fetch(`https://comments.imgod.me/api/comment?type=count&url=${keyArray}`, { method: 'GET' })
+      const result = await res.json()
+      
+      result.data.forEach((count, index) => {
+        eleGroup[index].textContent = count
+      })
+    } catch (err) {
+      console.error(err)
+    }
+  }
+
+  window.pjax ? loadWaline() : window.addEventListener('load', loadWaline)
+})()</script><script>window.typedJSFn = {
+  init: (str) => {
+    window.typed = new Typed('#subtitle', Object.assign({
+      strings: str,
+      startDelay: 300,
+      typeSpeed: 150,
+      loop: true,
+      backSpeed: 50,
+    }, null))
+  },
+  run: (subtitleType) => {
+    if (true) {
+      if (typeof Typed === 'function') {
+        subtitleType()
+      } else {
+        getScript('https://unpkg.com/typed.js/dist/typed.umd.js').then(subtitleType)
+      }
+    } else {
+      subtitleType()
+    }
+  }
+}
+</script><script>function subtitleType () {
+  fetch('https://v1.hitokoto.cn')
+    .then(response => response.json())
+    .then(data => {
+      if (true) {
+        const from = '出自 ' + data.from
+        const sub = []
+        sub.unshift(data.hitokoto, from)
+        typedJSFn.init(sub)
+      } else {
+        document.getElementById('subtitle').textContent = data.hitokoto
+      }
+    })
+}
+typedJSFn.run(subtitleType)
+</script></div><script>window.addEventListener('load', () => {
+  const changeContent = content => {
+    if (content === '') return content
+
+    content = content.replace(/<img.*?src="(.*?)"?[^\>]+>/ig, '[图片]') // replace image link
+    content = content.replace(/<a[^>]+?href=["']?([^"']+)["']?[^>]*>([^<]+)<\/a>/gi, '[链接]') // replace url
+    content = content.replace(/<pre><code>.*?<\/pre>/gi, '[代码]') // replace code
+    content = content.replace(/<[^>]+>/g,"") // remove html tag
+
+    if (content.length > 150) {
+      content = content.substring(0,150) + '...'
+    }
+    return content
+  }
+
+  const generateHtml = array => {
+    let result = ''
+
+    if (array.length) {
+      for (let i = 0; i < array.length; i++) {
+        result += '<div class=\'aside-list-item\'>'
+
+        if (true) {
+          const name = 'data-lazy-src'
+          result += `<a href='${array[i].url}' class='thumbnail'><img ${name}='${array[i].avatar}' alt='${array[i].nick}'></a>`
+        }
+
+        result += `<div class='content'>
+        <a class='comment' href='${array[i].url}' title='${array[i].content}'>${array[i].content}</a>
+        <div class='name'><span>${array[i].nick} / </span><time datetime="${array[i].date}">${btf.diffDate(array[i].date, true)}</time></div>
+        </div></div>`
+      }
+    } else {
+      result += '没有评论'
+    }
+
+    let $dom = document.querySelector('#card-newest-comments .aside-list')
+    $dom.innerHTML= result
+    window.lazyLoadInstance && window.lazyLoadInstance.update()
+    window.pjax && window.pjax.refresh($dom)
+  }
+
+  const getComment = async () => {
+    try {
+      const res = await fetch('https://comments.imgod.me/api/comment?type=recent&count=6', { method: 'GET' })
+      const result = await res.json()
+      const walineArray = result.data.map(e => {
+        return {
+          'content': changeContent(e.comment),
+          'avatar': e.avatar,
+          'nick': e.nick,
+          'url': e.url + '#' + e.objectId,
+          'date': e.time || e.insertedAt
+        }
+      })
+      saveToLocal.set('waline-newest-comments', JSON.stringify(walineArray), 10/(60*24))
+      generateHtml(walineArray)
+    } catch (err) {
+      console.error(err)
+      const $dom = document.querySelector('#card-newest-comments .aside-list')
+      $dom.textContent= "无法获取评论，请确认相关配置是否正确"
+    }
+  }
+
+  const newestCommentInit = () => {
+    if (document.querySelector('#card-newest-comments .aside-list')) {
+      const data = saveToLocal.get('waline-newest-comments')
+      if (data) {
+        generateHtml(JSON.parse(data))
+      } else {
+        getComment()
+      }
+    }
+  }
+
+  newestCommentInit()
+  document.addEventListener('pjax:complete', newestCommentInit)
+})</script><script src="https://unpkg.com/pjax/pjax.min.js"></script><script>let pjaxSelectors = ["head > title","#config-diff","#body-wrap","#rightside-config-hide","#rightside-config-show",".js-pjax"]
+
+var pjax = new Pjax({
+  elements: 'a:not([target="_blank"])',
+  selectors: pjaxSelectors,
+  cacheBust: false,
+  analytics: false,
+  scrollRestoration: false
+})
+
+document.addEventListener('pjax:send', function () {
+
+  // removeEventListener
+  btf.removeGlobalFnEvent('pjax')
+  btf.removeGlobalFnEvent('themeChange')
+
+  document.getElementById('rightside').classList.remove('rightside-show')
+  
+  if (window.aplayers) {
+    for (let i = 0; i < window.aplayers.length; i++) {
+      if (!window.aplayers[i].options.fixed) {
+        window.aplayers[i].destroy()
+      }
+    }
+  }
+
+  typeof typed === 'object' && typed.destroy()
+
+  //reset readmode
+  const $bodyClassList = document.body.classList
+  $bodyClassList.contains('read-mode') && $bodyClassList.remove('read-mode')
+
+  typeof disqusjs === 'object' && disqusjs.destroy()
+})
+
+document.addEventListener('pjax:complete', function () {
+  window.refreshFn()
+
+  document.querySelectorAll('script[data-pjax]').forEach(item => {
+    const newScript = document.createElement('script')
+    const content = item.text || item.textContent || item.innerHTML || ""
+    Array.from(item.attributes).forEach(attr => newScript.setAttribute(attr.name, attr.value))
+    newScript.appendChild(document.createTextNode(content))
+    item.parentNode.replaceChild(newScript, item)
+  })
+
+  GLOBAL_CONFIG.islazyload && window.lazyLoadInstance.update()
+
+  typeof panguInit === 'function' && panguInit()
+
+  // google analytics
+  typeof gtag === 'function' && gtag('config', '', {'page_path': window.location.pathname});
+
+  // baidu analytics
+  typeof _hmt === 'object' && _hmt.push(['_trackPageview',window.location.pathname]);
+
+  typeof loadMeting === 'function' && document.getElementsByClassName('aplayer').length && loadMeting()
+
+  // prismjs
+  typeof Prism === 'object' && Prism.highlightAll()
+})
+
+document.addEventListener('pjax:error', e => {
+  if (e.request.status === 404) {
+    pjax.loadUrl('/404.html')
+  }
+})</script><div id="local-search"><div class="search-dialog"><nav class="search-nav"><span class="search-dialog-title">搜索</span><span id="loading-status"></span><button class="search-close-button"><i class="fas fa-times"></i></button></nav><div class="is-center" id="loading-database"><i class="fas fa-spinner fa-pulse"></i><span>  数据库加载中</span></div><div class="search-wrap"><div id="local-search-input"><div class="local-search-box"><input class="local-search-box--input" placeholder="搜索文章" type="text"/></div></div><hr/><div id="local-search-results"></div><div id="local-search-stats-wrap"></div></div></div><div id="search-mask"></div><script src="/js/search/local-search.js"></script></div></div></body></html>
