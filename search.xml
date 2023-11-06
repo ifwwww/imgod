@@ -1,0 +1,753 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search> 
+  
+  
+    
+    <entry>
+      <title>宝藏软件收藏单</title>
+      <link href="/posts/39481.html"/>
+      <url>/posts/39481.html</url>
+      
+        <content type="html"><![CDATA[<p><strong>点击名称即可进入下载链接</strong></p><h4 id="猫头鹰文件"><a href="#猫头鹰文件" class="headerlink" title="猫头鹰文件"></a><a href="https://kingmaraud.lanzout.com/iCXsv15tta4j">猫头鹰文件</a></h4><blockquote><p>安卓 smb 神器速度超级快</p></blockquote><h4 id="ProxMon"><a href="#ProxMon" class="headerlink" title="ProxMon"></a><a href="https://kingmaraud.lanzout.com/iA7rL12zre0f">ProxMon</a></h4><blockquote><p>PVE 安卓管理面板</p></blockquote><h4 id="BestTrace"><a href="#BestTrace" class="headerlink" title="BestTrace"></a><a href="https://kingmaraud.lanzout.com/iEom415tsued">BestTrace</a></h4><blockquote><p>路由追踪地图显示</p></blockquote>]]></content>
+      
+      
+      <categories>
+          
+          <category> software </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> software </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>WARP+无限流量</title>
+      <link href="/posts/8008.html"/>
+      <url>/posts/8008.html</url>
+      
+        <content type="html"><![CDATA[<h4 id="WARP-是什么"><a href="#WARP-是什么" class="headerlink" title="WARP+是什么?"></a>WARP+是什么?</h4><p><strong><a href="https://1.1.1.1/">WARP+官网</a></strong></p><p>WARP+ 是 Cloudflare 公司提供的一项增值服务,可以为用户提供更快速、更加安全的互联网访问体验。使用 Warp+ VPN 客户端来连接到 Cloudflare 的 VPN 服务器,并将你的所有网络流量通过该服务器进行加密和隧道传输。</p><h4 id="获取无限流量"><a href="#获取无限流量" class="headerlink" title="获取无限流量"></a>获取无限流量</h4><p>所需工具: WARP+和 telegram</p><p>WARP+ 默认只有 1G 流量,4k 视频都看不完,下面就来获取无限流量密钥来激活 24pb 流量</p><h5 id="WARP-安装"><a href="#WARP-安装" class="headerlink" title="WARP+安装"></a>WARP+安装</h5><p>过程就不再赘述,直接官网下载安装包安装即可。</p><h5 id="电报搜索generatewarpplusbot"><a href="#电报搜索generatewarpplusbot" class="headerlink" title="电报搜索generatewarpplusbot"></a>电报搜索<a href="https://t.me/generatewarpplusbot">generatewarpplusbot</a></h5><p>直接<code>/start</code></p><p><img src="/posts/8008/warp+1.png"></p><p>点击<code>/generate</code></p><p><img src="/posts/8008/warp+2.png"></p><p>点击红框中的两个频道并加入然后返回此窗口,点击<code>I have subscribed</code></p><p><img src="/posts/8008/warp+3.png"></p><p>再次点击<code>/generate</code>,回复验证码</p><p><img src="/posts/8008/warp+4.png"></p><p>复制 key</p><p><img src="/posts/8008/warp+5.png"></p><p>打开 WARP+设置 ➡ 偏好设置</p><p><img src="/posts/8008/warp+6.png"></p><p>点击 账户 ➡ 使用其他密钥 ➡ 输入刚才获取的 key➡ 确认</p><p><img src="/posts/8008/warp+7.png"></p><h4 id="注意事项"><a href="#注意事项" class="headerlink" title="注意事项"></a>注意事项</h4><p>手机端需要 Google 套件,不然会闪退,有的网站通过 WARP+访问有概率会出一些奇奇怪怪的问题,emmmm,具体是什么问题说不清楚,反正就是不能正常访问,关了之后就正常,这玩意刷个 ytb 还是 ok 的,24pb 基本上等于无限流量了,速度也还 ok</p><p>测速仅供参考,延迟偏高,白嫖还要什么自行车嘛<br><img src="/posts/8008/warp+8.png" alt="补一张测速图"></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> WARP+ </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> WARP+ </tag>
+            
+            <tag> 白嫖 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>vercel托管的网站无法访问</title>
+      <link href="/posts/12676.html"/>
+      <url>/posts/12676.html</url>
+      
+        <content type="html"><![CDATA[<p>将dns切为下面的即可</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">cname-china.vercel-dns.com</span><br></pre></td></tr></table></figure>]]></content>
+      
+      
+      <categories>
+          
+          <category> vercel </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> vercel </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>华为电脑管家开启智慧语音和ai字幕</title>
+      <link href="/posts/45293.html"/>
+      <url>/posts/45293.html</url>
+      
+        <content type="html"><![CDATA[<p>13版本电脑管家需要两步操作，旧版本只需要第一步操作重启电脑即可</p><p><img src="/posts/45293/diannaoguanjia%20(4).png"></p><p>实测华为高键程键盘可以使用</p><h4 id="第一步"><a href="#第一步" class="headerlink" title="第一步"></a>第一步</h4><p>通过此电脑打开路径</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">C:\Program Files\Huawei\PCManager\config\product_adapter</span><br></pre></td></tr></table></figure><p>打开<code>ProductFeature.xml</code>文件</p><p>CTRL+F输入<code>智慧语音球</code></p><p>修改前  <code>support标签前加un;标签内注释或者删掉</code></p><p><img src="/posts/45293/diannaoguanjia%20(1).png"></p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br></pre></td><td class="code"><pre><span class="line">&lt;!-- 是否支持智慧语音球--&gt;</span><br><span class="line">&lt;smartaudio&gt;</span><br><span class="line">    &lt;support&gt;</span><br><span class="line">        Dirac;EmmyD;EmmyM;HookeD;HookeM;CezanneM;Morgan;MorganF;</span><br><span class="line">    &lt;/support&gt;</span><br><span class="line">&lt;/smartaudio&gt;</span><br></pre></td></tr></table></figure><p>修改后</p><p><img src="/posts/45293/diannaoguanjia%20(5).png"></p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br></pre></td><td class="code"><pre><span class="line">&lt;!-- 是否支持智慧语音球--&gt;</span><br><span class="line">&lt;smartaudio&gt;</span><br><span class="line">    &lt;unsupport&gt;</span><br><span class="line">        &lt;!-- Dirac;EmmyD;EmmyM;HookeD;HookeM;CezanneM;Morgan;MorganF; --&gt;</span><br><span class="line">    &lt;/unsupport&gt;</span><br><span class="line">&lt;/smartaudio&gt;</span><br></pre></td></tr></table></figure><h4 id="第二步"><a href="#第二步" class="headerlink" title="第二步"></a>第二步</h4><p>打开路径</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">C:\Program Files\Huawei\HwSmartAudio\config\product_adapter</span><br></pre></td></tr></table></figure><p>打开<code>ProductFeature.xml</code>文件</p><p>CTRL+F输入<code>智慧语音球</code></p><p>修改跟上边一样</p><p>修改前  <code>support标签前加un;标签内注释或者删掉</code></p><p><img src="/posts/45293/diannaoguanjia%20(1).png"></p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br></pre></td><td class="code"><pre><span class="line">&lt;!-- 是否支持智慧语音球--&gt;</span><br><span class="line">&lt;smartaudio&gt;</span><br><span class="line">    &lt;support&gt;</span><br><span class="line">        Dirac;EmmyD;EmmyM;HookeD;HookeM;CezanneM;Morgan;MorganF;</span><br><span class="line">    &lt;/support&gt;</span><br><span class="line">&lt;/smartaudio&gt;</span><br></pre></td></tr></table></figure><p>修改后</p><p><img src="/posts/45293/diannaoguanjia%20(5).png"></p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br></pre></td><td class="code"><pre><span class="line">&lt;!-- 是否支持智慧语音球--&gt;</span><br><span class="line">&lt;smartaudio&gt;</span><br><span class="line">    &lt;unsupport&gt;</span><br><span class="line">        &lt;!-- Dirac;EmmyD;EmmyM;HookeD;HookeM;CezanneM;Morgan;MorganF; --&gt;</span><br><span class="line">    &lt;/unsupport&gt;</span><br><span class="line">&lt;/smartaudio&gt;</span><br></pre></td></tr></table></figure><h4 id="重启电脑"><a href="#重启电脑" class="headerlink" title="重启电脑"></a>重启电脑</h4><p><img src="/posts/45293/diannaoguanjia%20(2).png"><br><img src="/posts/45293/diannaoguanjia%20(3).png"></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 电脑管家 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 电脑管家 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>ProxmoxVE操作指南(已更新至pve8.0)</title>
+      <link href="/posts/61099.html"/>
+      <url>/posts/61099.html</url>
+      
+        <content type="html"><![CDATA[<h2 id="pve-使用笔记"><a href="#pve-使用笔记" class="headerlink" title="pve 使用笔记"></a>pve 使用笔记</h2><p>安装教程太多而且傻瓜式,直接略过</p><p>PVE 第三方手机客户端:<a href="https://kingmaraud.lanzout.com/iA7rL12zre0f"><strong>点此下载 ProxMon</strong></a> <strong>(墙裂建议)</strong></p><h3 id="pve-初始设置"><a href="#pve-初始设置" class="headerlink" title="pve 初始设置"></a>pve 初始设置</h3><h4 id="设置默认-GUI-语言"><a href="#设置默认-GUI-语言" class="headerlink" title="设置默认 GUI 语言"></a>设置默认 GUI 语言</h4><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">nano /etc/pve/datacenter.cfg</span><br></pre></td></tr></table></figure><p>添加</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">language: zh_CN</span><br></pre></td></tr></table></figure><h4 id="更换-debian-源"><a href="#更换-debian-源" class="headerlink" title="更换 debian 源"></a>更换 debian 源</h4><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">nano /etc/apt/sources.list</span><br></pre></td></tr></table></figure><p>在<code>sources.list</code>中将原镜像源用<code>#</code>注释,在下方填入以下镜像源 <strong>(清华源中科大源二选一)</strong></p><blockquote><p>pve8.xx 版本</p></blockquote><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line">#清华源</span><br><span class="line">deb https://mirrors.tuna.tsinghua.edu.cn/debian/ bookworm main contrib non-free non-free-firmware</span><br><span class="line">deb https://mirrors.tuna.tsinghua.edu.cn/debian/ bookworm-updates main contrib non-free non-free-firmware</span><br><span class="line">deb https://mirrors.tuna.tsinghua.edu.cn/debian/ bookworm-backports main contrib non-free non-free-firmware</span><br><span class="line">deb https://mirrors.tuna.tsinghua.edu.cn/debian-security bookworm-security main contrib non-free non-free-firmware</span><br></pre></td></tr></table></figure><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line">#中科大源</span><br><span class="line">deb https://mirrors.ustc.edu.cn/debian/ bookworm main contrib non-free non-free-firmware</span><br><span class="line">deb https://mirrors.ustc.edu.cn/debian/ bookworm-updates main contrib non-free non-free-firmware</span><br><span class="line">deb https://mirrors.ustc.edu.cn/debian/ bookworm-backports main contrib non-free non-free-firmware</span><br><span class="line">deb https://mirrors.ustc.edu.cn/debian-security bookworm-security main contrib non-free  non-free-firmware</span><br></pre></td></tr></table></figure><blockquote><p>pve7.xx 版本</p></blockquote><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line">#清华源</span><br><span class="line">deb https://mirrors.tuna.tsinghua.edu.cn/debian/ bullseye main contrib non-free</span><br><span class="line">deb https://mirrors.tuna.tsinghua.edu.cn/debian/ bullseye-updates main contrib non-free</span><br><span class="line">deb https://mirrors.tuna.tsinghua.edu.cn/debian/ bullseye-backports main contrib non-free</span><br><span class="line">deb https://mirrors.tuna.tsinghua.edu.cn/debian-security bullseye-security main contrib non-free</span><br></pre></td></tr></table></figure><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line">#中科大源</span><br><span class="line">deb https://mirrors.ustc.edu.cn/debian/ bullseye main contrib non-free</span><br><span class="line">deb https://mirrors.ustc.edu.cn/debian/ bullseye-updates main contrib non-free</span><br><span class="line">deb https://mirrors.ustc.edu.cn/debian/ bullseye-backports main contrib non-free</span><br><span class="line">deb https://mirrors.ustc.edu.cn/debian-security bullseye-security main contrib</span><br></pre></td></tr></table></figure><p>保存</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">ctrl + s</span><br><span class="line">y</span><br><span class="line">回车</span><br></pre></td></tr></table></figure><h4 id="更换-pve-源"><a href="#更换-pve-源" class="headerlink" title="更换 pve 源"></a>更换 pve 源</h4><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">nano /etc/apt/sources.list.d/pve-no-subscription.list</span><br></pre></td></tr></table></figure><p>填入 <strong>(清华源中科大源二选一)</strong></p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">#清华源</span><br><span class="line">deb https://mirrors.tuna.tsinghua.edu.cn/proxmox/debian/pve bookworm pve-no-subscription</span><br></pre></td></tr></table></figure><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">#中科大源</span><br><span class="line">deb https://mirrors.ustc.edu.cn/proxmox/debian/pve bookworm pve-no-subscription</span><br></pre></td></tr></table></figure><p>保存</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">ctrl + s</span><br><span class="line">y</span><br><span class="line">回车</span><br></pre></td></tr></table></figure><p>添加完成后在 webui 将 pve 默认的企业源禁用 <strong>(一定要禁用否则会有 401 报错)</strong></p><p><img src="/posts/61099/pve%E7%A6%81%E7%94%A8%E5%AE%98%E6%96%B9%E6%BA%90.png"></p><h4 id="更新软件包"><a href="#更新软件包" class="headerlink" title="更新软件包"></a>更新软件包</h4><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">apt update</span><br><span class="line">apt upgrade -y</span><br></pre></td></tr></table></figure><h4 id="CT-模板换源"><a href="#CT-模板换源" class="headerlink" title="CT 模板换源"></a>CT 模板换源</h4><p>在 pve 控制台执行</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">cp /usr/share/perl5/PVE/APLInfo.pm /usr/share/perl5/PVE/APLInfo.pm_back</span><br><span class="line">sed -i &#x27;s|http://download.proxmox.com|https://mirrors.tuna.tsinghua.edu.cn/proxmox|g&#x27; /usr/share/perl5/PVE/APLInfo.pm</span><br></pre></td></tr></table></figure><p>重启服务</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">systemctl restart pvedaemon.service</span><br></pre></td></tr></table></figure><h4 id="移除无效订阅弹窗"><a href="#移除无效订阅弹窗" class="headerlink" title="移除无效订阅弹窗"></a>移除无效订阅弹窗</h4><p>进入 shell 粘贴并回车</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">sed -i.bak &quot;s/data.status.toLowerCase() !== &#x27;active&#x27;/false/g&quot; /usr/share/javascript/proxmox-widget-toolkit/proxmoxlib.js</span><br></pre></td></tr></table></figure><p>重启服务</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">systemctl restart pveproxy</span><br></pre></td></tr></table></figure><h4 id="存储路径"><a href="#存储路径" class="headerlink" title="存储路径"></a>存储路径</h4><h5 id="备份路径"><a href="#备份路径" class="headerlink" title="备份路径"></a>备份路径</h5><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">/var/lib/vz/dump</span><br></pre></td></tr></table></figure><h5 id="镜像路径"><a href="#镜像路径" class="headerlink" title="镜像路径"></a>镜像路径</h5><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">/var/lib/vz/template/iso</span><br></pre></td></tr></table></figure><h4 id="虚拟机或容器假死无法关机"><a href="#虚拟机或容器假死无法关机" class="headerlink" title="虚拟机或容器假死无法关机"></a>虚拟机或容器假死无法关机</h4><p>查询虚拟机进程</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">ps -ef|grep &quot;/usr/bin/kvm -id [VM_ID]&quot; |grep -v grep</span><br></pre></td></tr></table></figure><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">kill [进程_ID]</span><br></pre></td></tr></table></figure><h3 id="虚拟机设置"><a href="#虚拟机设置" class="headerlink" title="虚拟机设置"></a>虚拟机设置</h3><h4 id="打开硬件直通"><a href="#打开硬件直通" class="headerlink" title="打开硬件直通"></a>打开硬件直通</h4><blockquote><p>前提 bios 开启 vt-d</p></blockquote><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">nano /etc/default/grub</span><br></pre></td></tr></table></figure><p>注释</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">GRUB_CMDLINE_LINUX_DEFAULT=&quot;quiet&quot;</span><br></pre></td></tr></table></figure><p>换行粘贴</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">GRUB_CMDLINE_LINUX_DEFAULT=&quot;quiet intel_iommu=on iommu=pt&quot;</span><br></pre></td></tr></table></figure><p>保存</p><p>更新 grub</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">update-grub</span><br></pre></td></tr></table></figure><p>如未生效请重启</p><h4 id="修改虚拟机配置"><a href="#修改虚拟机配置" class="headerlink" title="修改虚拟机配置"></a>修改虚拟机配置</h4><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">nano /etc/pve/qemu-server/[VM_ID].conf</span><br></pre></td></tr></table></figure><h4 id="直通硬盘"><a href="#直通硬盘" class="headerlink" title="直通硬盘"></a>直通硬盘</h4><p>查询硬盘识别码</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">ls -la /dev/disk/by-id/|grep -v dm|grep -v lvm|grep -v part</span><br></pre></td></tr></table></figure><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">qm set [VM_ID] --scsi[x] /dev/disk/by-id/[硬盘_ID]</span><br></pre></td></tr></table></figure><h4 id="删除硬盘直通"><a href="#删除硬盘直通" class="headerlink" title="删除硬盘直通"></a>删除硬盘直通</h4><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">qm set [VM_ID] -delete scsi[x]</span><br></pre></td></tr></table></figure><h3 id="Lxc"><a href="#Lxc" class="headerlink" title="Lxc"></a>Lxc</h3><h4 id="修改-lxc-容器配置"><a href="#修改-lxc-容器配置" class="headerlink" title="修改 lxc 容器配置"></a>修改 lxc 容器配置</h4><p>在 pve 控制台编辑容器配置文件</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">nano /etc/pve/lxc/[CT_ID].conf</span><br></pre></td></tr></table></figure><p>粘贴</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">lxc.apparmor.profile: unconfined</span><br><span class="line">lxc.cgroup.devices.allow: a</span><br><span class="line">lxc.cap.drop:</span><br></pre></td></tr></table></figure><h4 id="启用核显"><a href="#启用核显" class="headerlink" title="启用核显"></a>启用核显</h4><p>在 pve 控制台执行</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">nano /etc/pve/lxc/[CT_ID].conf</span><br></pre></td></tr></table></figure><p>填入参数</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br></pre></td><td class="code"><pre><span class="line">lxc.cgroup2.devices.allow: c 226:0 rwm</span><br><span class="line">lxc.cgroup2.devices.allow: c 226:128 rwm</span><br><span class="line">lxc.cgroup2.devices.allow: c 29:0 rwm</span><br><span class="line">lxc.mount.entry: /dev/dri dev/dri none bind,optional,create=dir</span><br><span class="line">lxc.mount.entry: /dev/fb0 dev/fb0 none bind,optional,create=file</span><br><span class="line">lxc.apparmor.profile: unconfined</span><br></pre></td></tr></table></figure><p>进入容器</p><p>检查是否直通成功</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">cd /dev/dri</span><br><span class="line">ls</span><br><span class="line"></span><br></pre></td></tr></table></figure><h4 id="换-Debian-源"><a href="#换-Debian-源" class="headerlink" title="换 Debian 源"></a>换 Debian 源</h4><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">nano /etc/apt/sources.list</span><br></pre></td></tr></table></figure><p>注释原地址,粘贴下方源地址</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line">deb https://mirrors.tuna.tsinghua.edu.cn/debian/ bookworm main contrib non-free non-free-firmware</span><br><span class="line">deb https://mirrors.tuna.tsinghua.edu.cn/debian/ bookworm-updates main contrib non-free non-free-firmware</span><br><span class="line">deb https://mirrors.tuna.tsinghua.edu.cn/debian/ bookworm-backports main contrib non-free non-free-firmware</span><br><span class="line">deb https://mirrors.tuna.tsinghua.edu.cn/debian-security bookworm-security main contrib non-free non-free-firmware</span><br></pre></td></tr></table></figure><p>保存</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">ctrl + x</span><br><span class="line">y</span><br><span class="line">回车</span><br></pre></td></tr></table></figure><p>更新</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">apt update</span><br><span class="line">apt upgrade -y</span><br></pre></td></tr></table></figure><h4 id="挂载-NAS-smb-共享目录"><a href="#挂载-NAS-smb-共享目录" class="headerlink" title="挂载 NAS smb 共享目录"></a>挂载 NAS smb 共享目录</h4><p>安装 SMB 组件,并创建共享目录</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">apt install cifs-utils -y</span><br><span class="line">mkdir /mnt/nas</span><br></pre></td></tr></table></figure><p>创建密码文件</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">nano ~/.smbcredentials</span><br></pre></td></tr></table></figure><p>设置 SMB 登录账号密码,自行替换<code>[username]</code> <code>[password]</code></p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">username=[username]</span><br><span class="line">password=[password]</span><br></pre></td></tr></table></figure><p>修改自动挂载文件</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">nano /etc/fstab</span><br></pre></td></tr></table></figure><p>修改挂载路径(一般只修改 smb 共享路径和挂载路径)<br><code>[smb_server]</code>&#x3D;smb 存储服务器 ip<br><code>/nas</code>&#x3D;smb 共享路径</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">//[smb_server]/nas /mnt/nas cifs credentials=/root/.smbcredentials,iocharset=utf8 0 0</span><br></pre></td></tr></table></figure><h4 id="docker-安装"><a href="#docker-安装" class="headerlink" title="docker 安装"></a>docker 安装</h4><p>不同网络安装时间不同,多等一会就好</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">apt install curl -y</span><br><span class="line">curl -fsSL https://get.docker.com/ | sh</span><br></pre></td></tr></table></figure><h4 id="portainer-安装"><a href="#portainer-安装" class="headerlink" title="portainer 安装"></a>portainer 安装</h4><p>官方原版</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">docker run -d -p 8000:8000 -p 9443:9443 --name portainer --restart=always -v /var/run/docker.sock:/var/run/docker.sock -v portainer_data:/data portainer/portainer-ce:latest</span><br></pre></td></tr></table></figure><h4 id="迅雷-docker安装"><a href="#迅雷-docker安装" class="headerlink" title="迅雷 docker安装"></a><a href="https://hub.docker.com/r/cnk3x/xunlei">迅雷 docker</a>安装</h4><blockquote><p>以下以 &#x2F;mnt&#x2F;nas&#x2F;downloads 为实际的下载保存目录 &#x2F;mnt&#x2F;nas&#x2F;docker&#x2F;xunlei 为实际的数据保存目录 为例<br>根据实际情况更改<br>如果已经安装过的(&#x2F;mnt&#x2F;nas&#x2F;docker&#x2F;xunlei 目录已存在),再次安装会复用,而且下载目录不可更改,如果要更改下载目录,请把这个目录删掉重新绑定。</p></blockquote><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">docker run -d --name=xunlei --hostname=nas --net=host -v /mnt/nas/docker/xunlei:/xunlei/data -v /mnt/nas/media/downloads:/xunlei/downloads --restart=unless-stopped --privileged cnk3x/xunlei:latest</span><br></pre></td></tr></table></figure><p><strong>迅雷 docker 无法启动解决方法</strong></p><p>在 pve shell 命令行编辑容器配置文件</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">nano /etc/pve/lxc/[CT_ID].conf</span><br></pre></td></tr></table></figure><p>粘贴</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">lxc.apparmor.profile: unconfined</span><br><span class="line">lxc.cgroup.devices.allow: a</span><br><span class="line">lxc.cap.drop:</span><br></pre></td></tr></table></figure><p>重启容器</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> PVE </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> PVE </tag>
+            
+            <tag> NAS </tag>
+            
+            <tag> Docker </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>gitee图床图片失效</title>
+      <link href="/posts/11588.html"/>
+      <url>/posts/11588.html</url>
+      
+        <content type="html"><![CDATA[<p>引入下面代码</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">&lt;meta name=&quot;referrer&quot; content=&quot;no-referrer&quot; /&gt;</span><br></pre></td></tr></table></figure>]]></content>
+      
+      
+      <categories>
+          
+          <category> 图床 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 图床 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Vscode终端无法执行hexo命令</title>
+      <link href="/posts/3591.html"/>
+      <url>/posts/3591.html</url>
+      
+        <content type="html"><![CDATA[<h5 id="默认设置下-vscode-终端无法执行-hexo-命令，如下图所示"><a href="#默认设置下-vscode-终端无法执行-hexo-命令，如下图所示" class="headerlink" title="默认设置下 vscode 终端无法执行 hexo 命令，如下图所示"></a>默认设置下 vscode 终端无法执行 hexo 命令，如下图所示</h5><p><img src="/posts/3591/vscode%E7%BB%88%E7%AB%AF%20(1).png"></p><h5 id="解决方案如图"><a href="#解决方案如图" class="headerlink" title="解决方案如图"></a>解决方案如图</h5><p><img src="/posts/3591/vscode%E7%BB%88%E7%AB%AF%20(2).png"></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Vscode </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Notes </tag>
+            
+            <tag> Hexo </tag>
+            
+            <tag> Vscode </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Butterfly的简单优化</title>
+      <link href="/posts/57697.html"/>
+      <url>/posts/57697.html</url>
+      
+        <content type="html"><![CDATA[<h3 id="butterfly-主题的简单优化"><a href="#butterfly-主题的简单优化" class="headerlink" title="butterfly 主题的简单优化"></a>butterfly 主题的简单优化</h3><video src="https://gallery.ljpic.com/d/Video/butterfly.mp4?sign=Oj9I-bR8TFPrhDa5FSZT3UNJEfrzEoDhPJj3rxOZ_98=:0" controls="controls" style="max-width: 100%; display: block; margin: auto"></video><p>如视频中所示，在我们前两次点击搜索，由于主题自带的滚动条宽度会导致背景图出现拉伸的现象，在小屏上的感知倒没有那么明显，但一旦到了电脑的显示器上拉伸的感觉就会非常明显<br>对于我来说，这是有点无法忍受的，我们可以通过引入一个 css 把原本的 8 个像素的滚动条宽度覆盖为 0 个像素来解决背景拉伸的问题</p><p><strong>主题配置文件引入</strong>imgod.me</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br></pre></td><td class="code"><pre><span class="line"># Inject</span><br><span class="line"># Insert the code to head (before &#x27;&lt;/head&gt;&#x27; tag) and the bottom (before &#x27;&lt;/body&gt;&#x27; tag)</span><br><span class="line"># 插入代码到头部 &lt;/head&gt; 之前 和 底部 &lt;/body&gt; 之前</span><br><span class="line">inject:</span><br><span class="line">  head:</span><br><span class="line">    # - &lt;link rel=&quot;stylesheet&quot; href=&quot;/xxx.css&quot;&gt;</span><br><span class="line">    - &lt;link rel=&quot;stylesheet&quot; href=&quot;你的域名/css/scrollbar.css&quot;&gt;</span><br><span class="line"></span><br></pre></td></tr></table></figure><blockquote><p>上边的链接必须是域名加路径，否则除了首页之外的其他页面通过链接直接访问会无法生效</p></blockquote><p><strong>文件路径</strong><br><code>source\css\scrollbar.css </code></p><p><strong>css 代码</strong></p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line">*::-webkit-scrollbar &#123;</span><br><span class="line">  width: 0px;</span><br><span class="line">&#125;</span><br><span class="line"></span><br></pre></td></tr></table></figure><p>至于为什么不直接修改主题文件，主要是为了方便更新主题，引入 css 覆盖的话即使更新主题效果也不会丢失</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Hexo </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Hexo </tag>
+            
+            <tag> Butterfly </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>kodbox（可道云）宝塔部署</title>
+      <link href="/posts/22668.html"/>
+      <url>/posts/22668.html</url>
+      
+        <content type="html"><![CDATA[<p>本来周日就准备写的，由于当时安装 kodbox（可道云）的时候没有截图，当天又传了很多文件，已经进入生产环境，不想重新安装，所以一直鸽到了现在，刚才找主机商要了一个测试机重新安装一遍才发出来</p><h4 id="Kodbox"><a href="#Kodbox" class="headerlink" title="Kodbox"></a>Kodbox</h4><p><a href="https://www.kodcloud.com/">kodbox(可道云)官网</a><br><a href="https://kodcloud.com/download/">程序下载地址</a></p><p><strong>高效，流畅</strong><br><strong>云端存储&amp;协同办公新体验</strong></p><blockquote><p>如 Windows 体验的私有云盘&#x2F;企业网盘</p></blockquote><blockquote><p>完全支持私有化部署，存储安全可控</p></blockquote><blockquote><p>数百种文件格式在线预览、编辑和播放</p></blockquote><blockquote><p>轻松分享，高效协作，细粒度权限管控</p></blockquote><blockquote><p>全平台客户端覆盖，随时随地访问，轻松同步挂载</p></blockquote><h3 id="安装"><a href="#安装" class="headerlink" title="安装"></a>安装</h3><blockquote><p><strong>所需环境</strong><br>Ubuntu 20.04<br>Nginx 1.21.0<br>MySQL 5.7.39<br>PHP-7.4<br>Redis 7.0.0</p></blockquote><h4 id="新建网站"><a href="#新建网站" class="headerlink" title="新建网站"></a>新建网站</h4><p><img src="/posts/22668/kodbox%20(1).png"></p><h4 id="上传-kodbox-程序压缩包并解压"><a href="#上传-kodbox-程序压缩包并解压" class="headerlink" title="上传 kodbox 程序压缩包并解压"></a>上传 kodbox 程序压缩包并解压</h4><p><img src="/posts/22668/kodbox%20(2).png"></p><h4 id="访问网站，这里提示shell-exec-exec两个函数未开启"><a href="#访问网站，这里提示shell-exec-exec两个函数未开启" class="headerlink" title="访问网站，这里提示shell_exec/exec两个函数未开启"></a>访问网站，这里提示<code>shell_exec/exec</code>两个函数未开启</h4><p><img src="/posts/22668/kodbox%20(3).png"></p><h4 id="进入宝塔应用商店，打开-php，点击禁用的功能，删除shell-exec-exec两个函数的禁用"><a href="#进入宝塔应用商店，打开-php，点击禁用的功能，删除shell-exec-exec两个函数的禁用" class="headerlink" title="进入宝塔应用商店，打开 php，点击禁用的功能，删除shell_exec/exec两个函数的禁用"></a>进入宝塔应用商店，打开 php，点击禁用的功能，删除<code>shell_exec/exec</code>两个函数的禁用</h4><p><img src="/posts/22668/kodbox%20(4).png"></p><h4 id="重启-php"><a href="#重启-php" class="headerlink" title="重启 php"></a>重启 php</h4><p><img src="/posts/22668/kodbox%20(5).png"></p><h4 id="下一步"><a href="#下一步" class="headerlink" title="下一步"></a>下一步</h4><p><img src="/posts/22668/kodbox%20(6).png"></p><h4 id="这里提示-redis-有问题"><a href="#这里提示-redis-有问题" class="headerlink" title="这里提示 redis 有问题"></a>这里提示 redis 有问题</h4><p><img src="/posts/22668/kodbox%20(7).png"></p><h4 id="回到宝塔应用商店，安装-redis"><a href="#回到宝塔应用商店，安装-redis" class="headerlink" title="回到宝塔应用商店，安装 redis"></a>回到宝塔应用商店，安装 redis</h4><p><img src="/posts/22668/kodbox%20(8).png"></p><h4 id="打开-php，安装-php-redis-拓展"><a href="#打开-php，安装-php-redis-拓展" class="headerlink" title="打开 php，安装 php-redis 拓展"></a>打开 php，安装 php-redis 拓展</h4><p><img src="/posts/22668/kodbox%20(9).png"></p><h4 id="回到网站，填好数据库，选择-redis，确定"><a href="#回到网站，填好数据库，选择-redis，确定" class="headerlink" title="回到网站，填好数据库，选择 redis，确定"></a>回到网站，填好数据库，选择 redis，确定</h4><p><img src="/posts/22668/kodbox%20(10).png"></p><h4 id="设置管理员密码"><a href="#设置管理员密码" class="headerlink" title="设置管理员密码"></a>设置管理员密码</h4><p><img src="/posts/22668/kodbox%20(11).png"></p><h4 id="进入可道云"><a href="#进入可道云" class="headerlink" title="进入可道云"></a>进入可道云</h4><p><img src="/posts/22668/kodbox%20(12).png"></p><p><strong>到这里 kodbox（可道云）的安装就结束了，也可以正常使用，但如果想要发挥出服务器最佳的性能我们还需要优化一下</strong></p><h3 id="优化"><a href="#优化" class="headerlink" title="优化"></a>优化</h3><p><strong>服务器需要修改三个配置文件</strong></p><p>以 nginx.conf 为例<br>根据路径找到 nginx.conf 文件，复制参数名称，到配置文件里查找，依次往下，挨个修改，修改完成后重启 nginx 以及 php<br><img src="/posts/22668/nginx.png"></p><h4 id="nginx-conf"><a href="#nginx-conf" class="headerlink" title="nginx.conf"></a>nginx.conf</h4><p><strong>路径:</strong></p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">/www/server/nginx/conf</span><br></pre></td></tr></table></figure><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br></pre></td><td class="code"><pre><span class="line">client_max_body_size 50m</span><br><span class="line">#50m改为500m</span><br><span class="line"></span><br><span class="line">fastcgi_connect_timeout 300</span><br><span class="line">#300改为3600s</span><br><span class="line"></span><br><span class="line">fastcgi_send_timeout 300</span><br><span class="line">#300改为3600s</span><br><span class="line"></span><br><span class="line">fastcgi_read_timeout 300</span><br><span class="line">#300改为3600s</span><br></pre></td></tr></table></figure><h4 id="php-ini"><a href="#php-ini" class="headerlink" title="php.ini"></a>php.ini</h4><p><strong>路径:</strong>(注意路径里的 74 为 php 版本，如果你安装的是 php7.2,那就是 72)</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">/www/server/php/74/etc</span><br></pre></td></tr></table></figure><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br></pre></td><td class="code"><pre><span class="line">post_max_size = 50M                         #50m改为500m</span><br><span class="line"></span><br><span class="line">upload_max_filesize = 50M</span><br><span class="line">#50m改为500m</span><br><span class="line"></span><br><span class="line">memory_limit = 128M</span><br><span class="line">#128m改为500m</span><br><span class="line"></span><br><span class="line">max_execution_time = 300</span><br><span class="line">#300改为3600</span><br><span class="line"></span><br><span class="line">max_input_time = 60</span><br><span class="line">#60改为3600</span><br></pre></td></tr></table></figure><h4 id="php-fpm-conf"><a href="#php-fpm-conf" class="headerlink" title="php-fpm.conf"></a>php-fpm.conf</h4><p><strong>路径:</strong>(注意路径里的 74 为 php 版本，如果你安装的是 php7.2,那就是 72)</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">/www/server/php/74/etc</span><br></pre></td></tr></table></figure><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br></pre></td><td class="code"><pre><span class="line">request_terminate_timeout = 100</span><br><span class="line">#100改为3600</span><br><span class="line"></span><br><span class="line">pm.max_children = 30</span><br><span class="line">#30改为50</span><br><span class="line"></span><br><span class="line">pm.start_servers = 5</span><br><span class="line">#5改为10</span><br><span class="line"></span><br><span class="line">pm.min_spare_servers = 5</span><br><span class="line">#5改为10</span><br><span class="line"></span><br><span class="line">pm.max_spare_servers = 10</span><br><span class="line">#10改为30</span><br></pre></td></tr></table></figure><p><strong>可道云后台</strong><br>这里按需修改即可，我的设置没有任何参考意义，很有可能我们两个是完全是不一样的环境，注意，分片大小尽量尽量大一点，但是网络不稳定的话也不要太大,10m 就不小了，并发线程按提示改</p><p>分片如果太小，服务器 cpu 可能会爆，分区如果太大，网络不稳定的话容易断<br><img src="/posts/22668/houtai.png"></p><p><strong>如果发现有错误的地方请即时评论区留言告诉我，谢谢</strong></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 自建云盘 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 自建云盘 </tag>
+            
+            <tag> Note </tag>
+            
+            <tag> kodbox </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>cloudreve宝塔部署</title>
+      <link href="/posts/47716.html"/>
+      <url>/posts/47716.html</url>
+      
+        <content type="html"><![CDATA[<h4 id="Cloudreve"><a href="#Cloudreve" class="headerlink" title="Cloudreve"></a>Cloudreve</h4><p>Cloudreve 可助你即刻构建出兼备自用或公用的网盘服务，通过多种存储策略的支持、虚拟文件系统等特性实现灵活的文件管理体验。</p><p><a href="https://cloudreve.org/">Cloudreve 官网</a><br><a href="https://github.com/cloudreve/Cloudreve/releases">程序下载地址</a></p><h5 id="部署流程"><a href="#部署流程" class="headerlink" title="部署流程"></a>部署流程</h5><p>不论是宝塔部署还是直接运行步骤都是一样的，创建网站目录-设置反向代理-上传程序-给权限-配置数据库-配置进程守护</p><h5 id="创建网站并申请部署-ssl-证书"><a href="#创建网站并申请部署-ssl-证书" class="headerlink" title="创建网站并申请部署 ssl 证书"></a>创建网站并申请部署 ssl 证书</h5><p>创建网站以及数据库</p><p><img src="/posts/47716/imgod_me_7-19.png"><br><img src="/posts/47716/imgod_me_7-19_0.png"></p><h5 id="设置反向代理"><a href="#设置反向代理" class="headerlink" title="设置反向代理"></a>设置反向代理</h5><p>名称随意<br>目标 url:<code>http://127.0.0.1:5212</code></p><p><img src="/posts/47716/imgod_me_7-19_2.png"></p><p>在这里我们要在宝塔放通 5212 端口</p><p><img src="/posts/47716/cloudreve11.png"></p><h5 id="上传程序"><a href="#上传程序" class="headerlink" title="上传程序"></a>上传程序</h5><p><img src="/posts/47716/imgod_me_7-19_1.png"></p><h5 id="给程序执行权限"><a href="#给程序执行权限" class="headerlink" title="给程序执行权限"></a>给程序执行权限</h5><p>用 ssh 工具 cd 到网站目录:<code>cd /www/wwwroot/网站目录</code><br>给程序执行权限:<code>chmod +x ./cloudreve</code></p><p><img src="/posts/47716/imgod_me_7-19_3.png"></p><p>到这里我们其实是可以运行的，先运行一下看是否可以正常访问<br>继续在 ssh 工具里输入<code>./cloudreve</code><br><img src="/posts/47716/imgod_me_7-19_4.png"><br>显示这样就已经成功了<br>由于 cloudreve 默认的是 SQLite，在生产环境中会出现一些问题，具体就不再细说，下一步我们需要把数据库切换为 mysql</p><h5 id="配置数据库"><a href="#配置数据库" class="headerlink" title="配置数据库"></a>配置数据库</h5><p>在 ssh 工具里 ctrl+c 把程序停止运行<br><img src="/posts/47716/imgod_me_7-19_5.png"><br>进入宝塔网站文件目录，删掉生成的 SqLite 数据库文件<br><img src="/posts/47716/imgod_me_7-19_6.png"><br>打开配置文件,如下图红框里的内容是自动生成的，红框外面的可以复制下面代码框的内容粘贴进去，其中<code>数据库用户名，数据库密码，数据库名</code>需要根据之前创建数据库时所设置的内容修改</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br></pre></td><td class="code"><pre><span class="line">[Database]</span><br><span class="line">Type = mysql</span><br><span class="line">Port = 3306</span><br><span class="line">User = 数据库用户名</span><br><span class="line">Password = 数据库密码</span><br><span class="line">Host = 127.0.0.1</span><br><span class="line">Name = 数据库名</span><br><span class="line">TablePrefix = cd</span><br><span class="line">Charset = utf8</span><br></pre></td></tr></table></figure><p><img src="/posts/47716/imgod_me_7-19_7.png"></p><h5 id="进程守护"><a href="#进程守护" class="headerlink" title="进程守护"></a>进程守护</h5><p>宝塔应用商店搜索<code>supervisor</code>安装并打开设置</p><p><code>/www/wwwroot/网站目录/</code><br><code>/www/wwwroot/网站目录/cloudreve</code><br><img src="/posts/47716/imgod_me_7-19_8.png"><br>进程守护配置成功之后，点击左侧 log 查看管理员账号密码</p><h5 id="登录云盘"><a href="#登录云盘" class="headerlink" title="登录云盘"></a>登录云盘</h5><p>访问云盘地址，使用刚刚 log 里生成的管理员账号密码登录<br><img src="/posts/47716/imgod_me_7-19_10.png"></p><p>管理员账户密码后台自行设置</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 自建云盘 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 自建云盘 </tag>
+            
+            <tag> Cloudreve </tag>
+            
+            <tag> Note </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>google注册问题</title>
+      <link href="/posts/17812.html"/>
+      <url>/posts/17812.html</url>
+      
+        <content type="html"><![CDATA[<p>魔法工具必不可少，在 pc 端 chrome 浏览器，设置显示语言为英文，重启浏览器，之后按照提示注册，注册完成后改回中文<br><img src="/posts/17812/google%E6%B3%A8%E5%86%8C.png"></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> google </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Google </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>hexo部署遇到权限问题</title>
+      <link href="/posts/25316.html"/>
+      <url>/posts/25316.html</url>
+      
+        <content type="html"><![CDATA[<p>在 hexo 部署中，有的电脑即使用管理员打开 cmd 执行命令也会遇到权限问题，可以尝试右键开始菜单，使用 windows powershell（管理员）来执行命令<br><img src="/posts/25316/powershell.png"><br><img src="/posts/25316/powershell1.png"></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Hexo </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Hexo </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>waline怎么配置(本文只针对小白)</title>
+      <link href="/posts/45777.html"/>
+      <url>/posts/45777.html</url>
+      
+        <content type="html"><![CDATA[<p><strong><a href="https://waline.js.org/">评论系统 waline</a></strong></p><p><strong>安装</strong><br><strong>Ⅰ</strong> 注册 <a href="https://console.leancloud.app/register">leancloud</a>(尽量注册国际版，省掉很多麻烦事)<br><strong>Ⅱ</strong> 注册 <a href="https://vercel.com/">vercel</a><br><strong>Ⅲ</strong> <a href="https://vercel.com/">vercel</a>部署<br><strong>Ⅳ</strong> 配置环境变量<code>LEAN_ID</code>, <code>LEAN_KEY</code> 和 <code>LEAN_MASTER_KEY</code><br><strong>Ⅴ</strong> 重新部署<br><strong>Ⅵ</strong> 引入博客(至于博客内部配置是看主题的，不同主题不同格式，搜文档就行)</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br></pre></td><td class="code"><pre><span class="line">serverURL: &#x27;xxx.imgod.me&#x27;</span><br><span class="line">path: window.location.pathname</span><br><span class="line">placeholder: 有问题请留言！</span><br><span class="line">meta: [&#x27;nick&#x27;, &#x27;mail&#x27;, &#x27;link&#x27;]</span><br><span class="line">requiredMeta: [&#x27;nick&#x27;,&#x27;mail&#x27;]</span><br><span class="line">lang: &#x27;zh-CN&#x27;</span><br><span class="line">emoji: [&#x27;https://cdn.jsdelivr.net/gh/walinejs/emojis/weibo&#x27;]</span><br><span class="line">dark: &#x27;html[data-user-color-scheme=&quot;dark&quot;]&#x27;</span><br><span class="line">avatar: &#x27;retro&#x27;</span><br><span class="line">avatarCDN: &#x27;https://seccdn.libravatar.org/avatar/&#x27;</span><br><span class="line">avatarForce: false</span><br><span class="line">wordLimit: 0</span><br><span class="line">pageSize: 10</span><br><span class="line">highlight: true</span><br><span class="line">copyright: false</span><br></pre></td></tr></table></figure><blockquote><p>以上是我 Fluid 主题的配置，可以参考一下</p></blockquote><p>主要说环境变量哪里改<br>我以<a href="https://waline.js.org/guide/server/notification.html#%E9%82%AE%E4%BB%B6%E9%80%9A%E7%9F%A5">邮箱通知</a>为例,<br>文档第一句话写的就是:邮件通知需要配置以下<strong>环境变量</strong>，<br>找到 waline 项目 设置-环境变量，参考文档添加就行</p><p><img src="/posts/45777/waline.png"></p><p>需要注意的是 waline 有一个 ip 属地显示的功能，文档好像是没有介绍怎么关闭，但提供了<a href="https://github.com/walinejs/waline/issues/989#issuecomment-1116897998">关闭方法</a>，默认是开启的，我们可以照着下边设置来关闭,</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">NAME:DISABLE_REGION</span><br><span class="line">VALUE:DISABLE_REGION</span><br></pre></td></tr></table></figure><p>一通百通，其他的绝大部分参数修改方法是一样的</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Waline </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Notes </tag>
+            
+            <tag> Hexo </tag>
+            
+            <tag> Waline </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>NexT主题美化之添加3D访问量地图（6.25更新）</title>
+      <link href="/posts/34639.html"/>
+      <url>/posts/34639.html</url>
+      
+        <content type="html"><![CDATA[<p><img src="/posts/34639/revolverMaps.webp"><br>RevolverMaps 3D 地球仪小组件</p><span id="more"></span><blockquote><p>RevolverMaps 是一个免费的 3D 地球的小部件<br>官方的描述是：<br>RevolverMaps Standard GL 显示访问者的位置以及从安装到您的站点时的访问次数。最近的访问者位置被动画和标记，新的访问者位置出现在地球上。单击小部件底部的按钮可打开公共实时统计页面，提供有关访问者的详细信息。<br>将这个小部件安装到我们的博客还是蛮好看的，所以我这篇文章记录一下 NexT 主题在侧边栏添加 RevolverMaps</p></blockquote><p>首先我们访问<a href="https://www.revolvermaps.com/?target=setupgl">RevolverMaps</a>官网生成代码<br><img src="/posts/34639/revolverMaps1.webp"><br>插件外观方面按需设置即可，默认也可以<br>设置完成后，我们点击 copy to clipboard 按钮(最下面的复制到剪贴板)<br>打开主题下的 site-overview.njk 文件路径为<code>blog\themes\next\layout_partials\sidebar\site-overview.njk</code><br>翻到最底部代码为</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br></pre></td><td class="code"><pre><span class="line">&#123;# Blogroll #&#125;</span><br><span class="line">&#123;%- if theme.links %&#125;</span><br><span class="line">  &lt;div class=&quot;links-of-blogroll site-overview-item animated&quot;&gt;</span><br><span class="line">    &lt;div class=&quot;links-of-blogroll-title&quot;&gt;</span><br><span class="line">      &#123;%- if theme.links_settings.icon %&#125;&lt;i class=&quot;&#123;&#123; theme.links_settings.icon &#125;&#125; fa-fw&quot;&gt;&lt;/i&gt;&#123;% endif %&#125;</span><br><span class="line">      &#123;&#123; theme.links_settings.title &#125;&#125;</span><br><span class="line">    &lt;/div&gt;</span><br><span class="line">    &lt;ul class=&quot;links-of-blogroll-list&quot;&gt;</span><br><span class="line">      &#123;%- for blogrollText, blogrollURL in theme.links %&#125;</span><br><span class="line">        &lt;li class=&quot;links-of-blogroll-item&quot;&gt;</span><br><span class="line">          &#123;&#123; next_url(blogrollURL, blogrollText, &#123;title: blogrollURL&#125;) &#125;&#125;</span><br><span class="line">        &lt;/li&gt;</span><br><span class="line">      &#123;%- endfor %&#125;</span><br><span class="line">    &lt;/ul&gt;</span><br><span class="line">  &lt;/div&gt;</span><br><span class="line">&#123;%- endif %&#125;</span><br></pre></td></tr></table></figure><p>我们在<code>&#123;%- if theme.links %&#125;</code>代码下面一行添加一个<code>div</code>标签,将我们刚才复制的小部件代码添加到<code>div</code>标签里即可</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br></pre></td><td class="code"><pre><span class="line">&#123;# Blogroll #&#125;</span><br><span class="line">&#123;%- if theme.links %&#125;</span><br><span class="line">//在这里↓</span><br><span class="line">  &lt;div&gt;</span><br><span class="line">    &lt;script type=&quot;text/javascript&quot; src=&quot;//rf.revolvermaps.com/0/0/8.js?i=5le2h1hfo8g&amp;amp;m=7&amp;amp;c=ff0000&amp;amp;cr1=ffffff&amp;amp;f=arial&amp;amp;l=49&amp;amp;bv=100&amp;amp;rs=100&amp;amp;as=100&quot; async=&quot;async&quot;&gt;&lt;/script&gt;</span><br><span class="line">  &lt;/div&gt;</span><br><span class="line">  &lt;div class=&quot;links-of-blogroll site-overview-item animated&quot;&gt;</span><br><span class="line">    &lt;div class=&quot;links-of-blogroll-title&quot;&gt;</span><br><span class="line">      &#123;%- if theme.links_settings.icon %&#125;&lt;i class=&quot;&#123;&#123; theme.links_settings.icon &#125;&#125; fa-fw&quot;&gt;&lt;/i&gt;&#123;% endif %&#125;</span><br><span class="line">      &#123;&#123; theme.links_settings.title &#125;&#125;</span><br><span class="line">    &lt;/div&gt;</span><br><span class="line">    &lt;ul class=&quot;links-of-blogroll-list&quot;&gt;</span><br><span class="line">      &#123;%- for blogrollText, blogrollURL in theme.links %&#125;</span><br><span class="line">        &lt;li class=&quot;links-of-blogroll-item&quot;&gt;</span><br><span class="line">          &#123;&#123; next_url(blogrollURL, blogrollText, &#123;title: blogrollURL&#125;) &#125;&#125;</span><br><span class="line">        &lt;/li&gt;</span><br><span class="line">      &#123;%- endfor %&#125;</span><br><span class="line">    &lt;/ul&gt;</span><br><span class="line">  &lt;/div&gt;</span><br><span class="line">&#123;%- endif %&#125;</span><br></pre></td></tr></table></figure><p><strong>之前忘了在文章里嵌入了，今天突然想起来嵌入文章，所以日期改为最新重发一遍</strong></p><div height:500px width:100%>  <script type="text/javascript" src="//rf.revolvermaps.com/0/0/8.js?i=5le2h1hfo8g&amp;m=7&amp;c=ff0000&amp;cr1=ffffff&amp;f=arial&amp;l=49&amp;bv=100&amp;rs=100&amp;as=100" async="async"></script></div><p>end</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> NexT </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Notes </tag>
+            
+            <tag> NexT </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>国内服务器面板使用体验</title>
+      <link href="/posts/19902.html"/>
+      <url>/posts/19902.html</url>
+      
+        <content type="html"><![CDATA[<p>由于本人在使用宝塔国际版的时候没有清除数据就直接强制安装宝塔国内版导致账号被封，所以不得不找一个好用的面板，也就有了让我体验这么多管理面板的机会。</p><h4 id="国内的服务器管理面板有哪些？"><a href="#国内的服务器管理面板有哪些？" class="headerlink" title="国内的服务器管理面板有哪些？"></a>国内的服务器管理面板有哪些？</h4><p>宝塔面板、AMH、小皮面板、护卫神、appnode、旗鱼云梯、云帮手……</p><p>最后两个面板我并没有安装体验，所以本文不谈旗鱼云梯和云帮手</p><h4 id="先说小皮面板、护卫神以及-appnode"><a href="#先说小皮面板、护卫神以及-appnode" class="headerlink" title="先说小皮面板、护卫神以及 appnode"></a>先说小皮面板、护卫神以及 appnode</h4><p><del>小皮面板</del></p><p>整体页面跟宝塔相似，但软件版本太低,并不止一个软件，而是很多软件版本都低<br><strong>pass</strong></p><p><del>护卫神</del></p><p>连反向代理功能都没有，我是用来部署 cloudreve，必须用反向代理<br><strong>pass</strong></p><p><del>appnode</del></p><p>已经停止运营,社区基本没有解答问题的人<br><strong>pass</strong></p><h4 id="AMH-面板和宝塔面板比较（重点）"><a href="#AMH-面板和宝塔面板比较（重点）" class="headerlink" title="AMH 面板和宝塔面板比较（重点）"></a>AMH 面板和宝塔面板比较（重点）</h4><h5 id="AMH-面板-——-宝塔面板"><a href="#AMH-面板-——-宝塔面板" class="headerlink" title="AMH 面板 —— 宝塔面板"></a>AMH 面板 —— 宝塔面板</h5><h5 id="页面展示"><a href="#页面展示" class="headerlink" title="页面展示"></a>页面展示</h5><p><strong>amh</strong><br>安装完成后 amh 首页<br><img src="/posts/19902/mianban%20(1).png"></p><p><strong>宝塔面板</strong></p><p><img src="/posts/19902/mianban4.png"></p><h5 id="对比"><a href="#对比" class="headerlink" title="对比"></a>对比</h5><p><strong>amh</strong><br>整体页面风格给人一种复古的感觉（丑），我体验的是 6.xx 版本（但截图是最新版本），具体版本号忘了，7.0 版本已经更新，看着还不错，软件包基本都是最新版本，amh 面板以我这几天的体验更多的是一个单纯的可视化面板，包括网站数据库、反向代理甚至 ssl 证书都要手动安装软件并配置，在 AMH 面板最开始安装完成后只有必要的软件环境，不像宝塔很多功能默认都已经集成，不过好在功能齐全，在功能方面我的感受就是基本与宝塔持平，甚至更多，尤其备份功能非常强大，但是使用门槛要比宝塔更高一些</p><p><img src="/posts/19902/mianban%20(2).png" alt="连 ssl 证书以及伪静态功能都要手动安装"></p><p>不得不再说一下 amh 的备份功能真的很牛皮<br><img src="/posts/19902/mianban%20(3).png" alt="官方备份软件"></p><p><strong>宝塔</strong><br>在封我账户的第二天宝塔就暴雷了，有人说收集用户隐私，具体什么情况不得而知，我也不做过多评价，但不得不说的是宝塔确实试目前对于新手来说最简单好用的，更推荐宝塔国际版(aaPanel),最大的优点就是不需要绑定手机号，直接登录就可以，语言是英文，但外观和宝塔基本一致，不用担心不懂英文</p><h4 id="总结"><a href="#总结" class="headerlink" title="总结"></a>总结</h4><p><strong>Ⅰ.</strong> 国内的服务器面板，只要是我上面试过的，要么宝塔要么 AMH，其他的或多或少都有缺陷，直接 pass 就行，不用看百度的推荐，全 tm 采集的水文，坑全被我踩了（时间为 2022 年 6 月 4 日，我对我的评价负责，只要在这个日期之后不更新这个评论价就有效）<br><strong>Ⅱ.</strong> 至于 amh 和宝塔两个面板其实功能方面以及第三方应用都是没有太大区别的，用哪个都可以，<strong>宝塔</strong>的话建议先用中文版体验一下，后续换成国际版 <a href="https://www.aapanel.com/new/index.html">aaPanel(需要魔法)</a>; <strong>amh</strong> 方面，非常稳定，不过需要注意的是大陆以外的服务器或者主机安装，一定要看安装小提示，不然有可能安装不上（概率很大，不过按照提示执行两条命令，基本上问题不大）</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 服务器面板 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 服务器面板 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>hexo博客添加PWA支持</title>
+      <link href="/posts/53748.html"/>
+      <url>/posts/53748.html</url>
+      
+        <content type="html"><![CDATA[<p><strong>先挂出参考地址:</strong></p><blockquote><p><a href="https://hexo.fluid-dev.com/posts/hexo-pwa">Hexo Theme Fluid</a></p></blockquote><blockquote><p><a href="https://www.eatrice.cn/post/%E7%BB%99hexo%E5%8D%9A%E5%AE%A2%E6%B7%BB%E5%8A%A0PWA%E6%94%AF%E6%8C%81/">吃白饭的休伯利安号</a></p></blockquote><p>本人参考的是 fluid 主题的文章，第二个是作者的原文，这两个地址写的教程也是完全一样的，随便参考哪个都可以</p><p>这里记录一下遇到的问题<br>最重要的就是 PWA 插件<code>hexo-service-worker</code>插件装不上<br><img src="/posts/53748/pwa.png"></p><p>原因自行百度不做过多赘述</p><p>直接说<strong>解决方案</strong></p><blockquote><p>强制安装</p></blockquote><p><code>npm install --save hexo-service-worker --force</code></p><p>其他配置参考文章开头链接即可</p><p>全部搞定以后<code>hexo s</code>浏览器 f12 找到 <code>lighthouse</code> 生成报告，如果没问题就会像下图显示的一样</p><p><img src="/posts/53748/pwa1.webp"></p><p>还有一个小问题，开启 pwa 支持以后，不能直接<code>hexo d</code>(我为了省事有这个毛病，坏习惯)，必须先<code>hexo g</code>生成静态文件才可以<code>hexo d</code>,也可以<code>hexo g -d</code></p><p><strong>end</strong></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Hexo </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Notes </tag>
+            
+            <tag> Hexo </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>通过飞书开通个性域名邮箱</title>
+      <link href="/posts/731.html"/>
+      <url>/posts/731.html</url>
+      
+        <content type="html"><![CDATA[<h4 id="飞书设置"><a href="#飞书设置" class="headerlink" title="飞书设置"></a>飞书设置</h4><h5 id="注册飞书账号"><a href="#注册飞书账号" class="headerlink" title="注册飞书账号"></a>注册飞书账号</h5><p><a href="https://www.feishu.cn/">点击这里注册飞书</a></p><h5 id="进入管理后台"><a href="#进入管理后台" class="headerlink" title="进入管理后台"></a>进入管理后台</h5><p><a href="https://feishu.cn/admin/index">点击这里</a></p><h5 id="进入邮箱配置页面"><a href="#进入邮箱配置页面" class="headerlink" title="进入邮箱配置页面"></a>进入邮箱配置页面</h5><p><img src="/posts/731/email%20(1).png"></p><h5 id="输入域名并提交"><a href="#输入域名并提交" class="headerlink" title="输入域名并提交"></a>输入域名并提交</h5><p><img src="/posts/731/email%20(2).png"></p><h5 id="按提示在-dns-解析服务商录入以下四条解析记录"><a href="#按提示在-dns-解析服务商录入以下四条解析记录" class="headerlink" title="按提示在 dns 解析服务商录入以下四条解析记录"></a>按提示在 dns 解析服务商录入以下四条解析记录</h5><p><img src="/posts/731/email%20(3).png"></p><p><img src="/posts/731/email%20(4).png"></p><h5 id="解析完成后回到飞书域名验证界面，点击验证"><a href="#解析完成后回到飞书域名验证界面，点击验证" class="headerlink" title="解析完成后回到飞书域名验证界面，点击验证"></a>解析完成后回到飞书域名验证界面，点击验证</h5><p><img src="/posts/731/email%20(5).png"></p><h5 id="这里是必须分配成员，点击立即配置，按照提示添加，输入前缀即可"><a href="#这里是必须分配成员，点击立即配置，按照提示添加，输入前缀即可" class="headerlink" title="这里是必须分配成员，点击立即配置，按照提示添加，输入前缀即可"></a>这里是必须分配成员，点击立即配置，按照提示添加，输入前缀即可</h5><p><img src="/posts/731/email%20(6).png"></p><h5 id="下一步"><a href="#下一步" class="headerlink" title="下一步"></a>下一步</h5><p><img src="/posts/731/email%20(7).png"></p><h5 id="开通公共邮箱，进入公共邮箱配置界面"><a href="#开通公共邮箱，进入公共邮箱配置界面" class="headerlink" title="开通公共邮箱，进入公共邮箱配置界面"></a>开通公共邮箱，进入公共邮箱配置界面</h5><p><img src="/posts/731/email%20(8).png"></p><h5 id="名称随意，地址需要填入前缀，成员把自己添加进去（新注册帐户的话应该只有自己），勾选-IMAP-SMTP-服务，创建"><a href="#名称随意，地址需要填入前缀，成员把自己添加进去（新注册帐户的话应该只有自己），勾选-IMAP-SMTP-服务，创建" class="headerlink" title="名称随意，地址需要填入前缀，成员把自己添加进去（新注册帐户的话应该只有自己），勾选 IMAP&#x2F;SMTP 服务，创建"></a>名称随意，地址需要填入前缀，成员把自己添加进去（新注册帐户的话应该只有自己），勾选 IMAP&#x2F;SMTP 服务，创建</h5><p><img src="/posts/731/email%20(9).png"></p><h5 id="创建完成后，需要修改一下密码"><a href="#创建完成后，需要修改一下密码" class="headerlink" title="创建完成后，需要修改一下密码"></a>创建完成后，需要修改一下密码</h5><p><img src="/posts/731/email%20(10).png"></p><p><img src="/posts/731/email%20(11).png"></p><h5 id="修改完成后，确认即可"><a href="#修改完成后，确认即可" class="headerlink" title="修改完成后，确认即可"></a>修改完成后，确认即可</h5><h4 id="第三方登录"><a href="#第三方登录" class="headerlink" title="第三方登录"></a>第三方登录</h4><h5 id="这里我已-Windows-版网易邮箱大师为例"><a href="#这里我已-Windows-版网易邮箱大师为例" class="headerlink" title="这里我已 Windows 版网易邮箱大师为例"></a>这里我已 Windows 版网易邮箱大师为例</h5><p><strong><a href="https://www.feishu.cn/hc/zh-CN/articles/360049068017">其他邮箱客户端请参考</a></strong></p><p><img src="/posts/731/email%20(12).png"></p><p>邮箱地址以及密码就是公共邮箱的地址和密码</p><p><img src="/posts/731/email%20(11).png"></p><p>IMAP 服务器，端口，加密，SMTP 服务器按图填入</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">收信服务器（IMAP）地址：imap.feishu.cn，端口号：993</span><br><span class="line">发信服务器（SMTP）地址：smtp.feishu.cn，端口号：465（iOS 用户输入 587）</span><br></pre></td></tr></table></figure><p><img src="/posts/731/email%20(13).png"></p><p>填完以后点击确认即可使用</p><p><img src="/posts/731/email%20(14).png"></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Email </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 私人邮箱 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>域名注册及选购指南</title>
+      <link href="/posts/57388.html"/>
+      <url>/posts/57388.html</url>
+      
+        <content type="html"><![CDATA[<h3 id="域名注册"><a href="#域名注册" class="headerlink" title="域名注册"></a>域名注册</h3><h4 id="域名注册商分两类："><a href="#域名注册商分两类：" class="headerlink" title="域名注册商分两类："></a>域名注册商分两类：</h4><h5 id="1-中国大陆本土的域名注册商：阿里万网、华为云、腾讯云、新网以及西部数码…"><a href="#1-中国大陆本土的域名注册商：阿里万网、华为云、腾讯云、新网以及西部数码…" class="headerlink" title="1.中国大陆本土的域名注册商：阿里万网、华为云、腾讯云、新网以及西部数码…"></a>1.中国大陆本土的域名注册商：阿里万网、华为云、腾讯云、新网以及西部数码…</h5><p>没什么可说的，基本价格差距不大，挑便宜买就好，域名没有什么乱七八糟的讲究，实名认证以后就可以直接解析</p><h5 id="2-除中国大陆以外的域名注册商：Godaddy、Namecheap、-NameSilo-以及-cloudflare…"><a href="#2-除中国大陆以外的域名注册商：Godaddy、Namecheap、-NameSilo-以及-cloudflare…" class="headerlink" title="2.除中国大陆以外的域名注册商：Godaddy、Namecheap、 NameSilo 以及 cloudflare…"></a>2.除中国大陆以外的域名注册商：Godaddy、Namecheap、 NameSilo 以及 cloudflare…</h5><p><strong>Godaddy:</strong><br><strong>优点</strong>:地区切换为新加坡有简体中文，对于咱们说中文的人来说蛮友好的，据说有新加坡中文客服，(但是我的亲身经历是，用英文从晚上十一点聊到凌晨一点，没解决问题，没解决就罢了，连原因都找不出来)<br><strong>缺点</strong>:贵，而且套路，套路还是 tmd 套路<br><strong>建议</strong>:如果价格碰上优惠力度大的话，买第一年就可以，第二年太 tm 贵了，跟国内的服务商一个套路，但国内的是第一年亏本，godaddy 是 tm 第一年就赚钱，第二年更 tm 赚钱</p><p><strong>Namecheap</strong><br><strong>优点</strong>：比 godaddy 便宜，有免费域名隐私保护<br><strong>缺点</strong>：但还是偏贵<br><strong>建议</strong>：活动价可以考虑</p><p><strong>NameSilo</strong>（本人在用）<br><strong>优点</strong>：价格良心，第二年续费价格不变，免费域名隐私保护<br><strong>缺点</strong>：没中文，网页翻译勉强能看明白，官网样式很老<br><strong>建议</strong>：优惠码<code>ONESAVING</code>，直接买就可以，如果其他服务商价格便宜可以考虑先在其他服务商购买，等三个月转到 namesilo<br><a href="http://www.namesilo.com/?rid=a3e1b34ls"><img src="http://www.namesilo.com/affiliate/banner_gen.php?aid=a3e1b34ls&bid=58" style="border:0;"></a></p><p><strong>cloudflare</strong><br><strong>优点</strong>：最便宜的域名注册商，cloudflare 声明不收取任何额外费用（收不收取额外费用不清楚，但购买两年以上域名 cloudflare 确实是目前最便宜的）<br><strong>缺点</strong>：只能用 cloudflare 解析，并且目前不支持域名转出<br><strong>建议</strong>：如果一直用 coudflare 解析的可以考虑，但不是很推荐，这个限制就像不能和不想的区别</p><h3 id="域名选购"><a href="#域名选购" class="headerlink" title="域名选购"></a>域名选购</h3><p><strong>在自己喜欢的前提下，越简单越好</strong></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 网站 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 域名选购 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>故人随笔之狗屁不通</title>
+      <link href="/posts/64618.html"/>
+      <url>/posts/64618.html</url>
+      
+        <content type="html"><![CDATA[<h2 id="故人随笔"><a href="#故人随笔" class="headerlink" title="故人随笔"></a>故人随笔</h2><p>在这种困难的抉择下，本人思来想去，寝食难安。 本人也是经过了深思熟虑，在每个日日夜夜思考这个问题。 我们一般认为，抓住了问题的关键，其他一切则会迎刃而解。 一般来说， 我认为， 裴斯泰洛齐曾经提到过，今天应做的事没有做，明天再早也是耽误了。带着这句话，我们还要更加慎重的审视这个问题： 本人也是经过了深思熟虑，在每个日日夜夜思考这个问题。 一般来讲，我们都必须务必慎重的考虑考虑。 故人随笔因何而发生？ 对我个人而言，故人随笔不仅仅是一个重大的事件，还可能会改变我的人生。 这样看来， 一般来说， 问题的关键究竟为何？ 雷锋曾经提到过，自己活着，就是为了使别人过得更美好。我希望诸位也能好好地体会这句话。 了解清楚故人随笔到底是一种怎么样的存在，是解决一切问题的关键。 从这个角度来看， 我们都知道，只要有意义，那么就必须慎重考虑。 那么， 这样看来， 左拉说过一句富有哲理的话，生活的道路一旦选定，就要勇敢地走到底，决不回头。这不禁令我深思。 歌德在不经意间这样说过，意志坚强的人能把世界放在手中像泥块一样任意揉捏。我希望诸位也能好好地体会这句话。 黑格尔说过一句富有哲理的话，只有永远躺在泥坑里的人，才不会再掉进坑里。这启发了我， 总结的来说， 这种事实对本人来说意义重大，相信对这个世界也是有一定意义的。 生活中，若故人随笔出现了，我们就不得不考虑它出现了的事实。 而这些并不是完全重要，更加重要的问题是， 带着这些问题，我们来审视一下故人随笔。 罗素·贝克曾经提到过，一个人即使已登上顶峰，也仍要自强不息。这不禁令我深思。 一般来说， 赫尔普斯说过一句富有哲理的话，有时候读书是一种巧妙地避开思考的方法。这句话语虽然很短，但令我浮想联翩。 我们不得不面对一个非常尴尬的事实，那就是， 那么， 这样看来， 对我个人而言，故人随笔不仅仅是一个重大的事件，还可能会改变我的人生。 从这个角度来看， 生活中，若故人随笔出现了，我们就不得不考虑它出现了的事实。 德国曾经提到过，只有在人群中间，才能认识自己。这启发了我， 可是，即使是这样，故人随笔的出现仍然代表了一定的意义。 生活中，若故人随笔出现了，我们就不得不考虑它出现了的事实。 每个人都不得不面对这些问题。 在面对这种问题时， 从这个角度来看， 故人随笔，发生了会如何，不发生又会如何。 故人随笔的发生，到底需要如何做到，不故人随笔的发生，又会如何产生。 这样看来， 问题的关键究竟为何？ 带着这些问题，我们来审视一下故人随笔。 故人随笔，发生了会如何，不发生又会如何。 问题的关键究竟为何？ 马克思曾经提到过，一切节省，归根到底都归结为时间的节省。带着这句话，我们还要更加慎重的审视这个问题： 本人也是经过了深思熟虑，在每个日日夜夜思考这个问题。 可是，即使是这样，故人随笔的出现仍然代表了一定的意义。 而这些并不是完全重要，更加重要的问题是， 一般来说， 要想清楚，故人随笔，到底是一种怎么样的存在。 要想清楚，故人随笔，到底是一种怎么样的存在。 这种事实对本人来说意义重大，相信对这个世界也是有一定意义的。 本人也是经过了深思熟虑，在每个日日夜夜思考这个问题。 而这些并不是完全重要，更加重要的问题是， 经过上述讨论， 生活中，若故人随笔出现了，我们就不得不考虑它出现了的事实。 本人也是经过了深思熟虑，在每个日日夜夜思考这个问题。 故人随笔因何而发生？ 从这个角度来看， 从这个角度来看， 史美尔斯说过一句富有哲理的话，书籍把我们引入最美好的社会，使我们认识各个时代的伟大智者。我希望诸位也能好好地体会这句话。 而这些并不是完全重要，更加重要的问题是， 雷锋在不经意间这样说过，自己活着，就是为了使别人过得更美好。带着这句话，我们还要更加慎重的审视这个问题： 本人也是经过了深思熟虑，在每个日日夜夜思考这个问题。 对我个人而言，故人随笔不仅仅是一个重大的事件，还可能会改变我的人生。 现在，解决故人随笔的问题，是非常非常重要的。 所以， 在这种困难的抉择下，本人思来想去，寝食难安。 在这种困难的抉择下，本人思来想去，寝食难安。 了解清楚故人随笔到底是一种怎么样的存在，是解决一切问题的关键。 所谓故人随笔，关键是故人随笔需要如何写。 故人随笔的发生，到底需要如何做到，不故人随笔的发生，又会如何产生。 斯宾诺莎在不经意间这样说过，最大的骄傲于最大的自卑都表示心灵的最软弱无力。带着这句话，我们还要更加慎重的审视这个问题： 本人也是经过了深思熟虑，在每个日日夜夜思考这个问题。 迈克尔·F·斯特利曾经提到过，最具挑战性的挑战莫过于提升自我。带着这句话，我们还要更加慎重的审视这个问题： 了解清楚故人随笔到底是一种怎么样的存在，是解决一切问题的关键。 这种事实对本人来说意义重大，相信对这个世界也是有一定意义的。 经过上述讨论， 要想清楚，故人随笔，到底是一种怎么样的存在。 总结的来说， 所谓故人随笔，关键是故人随笔需要如何写。 总结的来说， 我们不得不面对一个非常尴尬的事实，那就是， 带着这些问题，我们来审视一下故人随笔。 故人随笔的发生，到底需要如何做到，不故人随笔的发生，又会如何产生。 经过上述讨论， 故人随笔因何而发生？ 现在，解决故人随笔的问题，是非常非常重要的。 所以， 我们一般认为，抓住了问题的关键，其他一切则会迎刃而解。 问题的关键究竟为何？ 对我个人而言，故人随笔不仅仅是一个重大的事件，还可能会改变我的人生。 既然如此， 既然如此， 这种事实对本人来说意义重大，相信对这个世界也是有一定意义的。 海贝尔说过一句富有哲理的话，人生就是学校。在那里，与其说好的教师是幸福，不如说好的教师是不幸。这句话语虽然很短，但令我浮想联翩。 故人随笔的发生，到底需要如何做到，不故人随笔的发生，又会如何产生。 既然如此， 了解清楚故人随笔到底是一种怎么样的存在，是解决一切问题的关键。 就我个人来说，故人随笔对我的意义，不能不说非常重大。 每个人都不得不面对这些问题。 在面对这种问题时， 总结的来说， 所谓故人随笔，关键是故人随笔需要如何写。 这样看来， 既然如此， 歌德曾经说过，读一本好书，就如同和一个高尚的人在交谈。这启发了我。<br>　　可是，即使是这样，故人随笔的出现仍然代表了一定的意义。 从这个角度来看， 带着这些问题，我们来审视一下故人随笔。 故人随笔的发生，到底需要如何做到，不故人随笔的发生，又会如何产生。 我们都知道，只要有意义，那么就必须慎重考虑。 每个人都不得不面对这些问题。 在面对这种问题时， 美华纳曾经提到过，勿问成功的秘诀为何，且尽全力做你应该做的事吧。这句话语虽然很短，但令我浮想联翩。 这样看来， 本人也是经过了深思熟虑，在每个日日夜夜思考这个问题。 现在，解决故人随笔的问题，是非常非常重要的。 所以， 了解清楚故人随笔到底是一种怎么样的存在，是解决一切问题的关键。 而这些并不是完全重要，更加重要的问题是， 这种事实对本人来说意义重大，相信对这个世界也是有一定意义的。 对我个人而言，故人随笔不仅仅是一个重大的事件，还可能会改变我的人生。 莎士比亚在不经意间这样说过，人的一生是短的，但如果卑劣地过这一生，就太长了。带着这句话，我们还要更加慎重的审视这个问题： 带着这些问题，我们来审视一下故人随笔。 我们都知道，只要有意义，那么就必须慎重考虑。 在这种困难的抉择下，本人思来想去，寝食难安。 一般来说， 要想清楚，故人随笔，到底是一种怎么样的存在。 总结的来说， 现在，解决故人随笔的问题，是非常非常重要的。 所以， 本人也是经过了深思熟虑，在每个日日夜夜思考这个问题。 所谓故人随笔，关键是故人随笔需要如何写。 我们一般认为，抓住了问题的关键，其他一切则会迎刃而解。 我们不得不面对一个非常尴尬的事实，那就是， 既然如何， 塞涅卡曾经说过，生命如同寓言，其价值不在与长短，而在与内容。这启发了我， 一般来讲，我们都必须务必慎重的考虑考虑。 这样看来， 故人随笔的发生，到底需要如何做到，不故人随笔的发生，又会如何产生。 要想清楚，故人随笔，到底是一种怎么样的存在。<br>　　经过上述讨论， 故人随笔，发生了会如何，不发生又会如何。 故人随笔的发生，到底需要如何做到，不故人随笔的发生，又会如何产生。 一般来说， 易卜生曾经说过，伟大的事业，需要决心，能力，组织和责任感。带着这句话，我们还要更加慎重的审视这个问题： 而这些并不是完全重要，更加重要的问题是， 了解清楚故人随笔到底是一种怎么样的存在，是解决一切问题的关键。 本人也是经过了深思熟虑，在每个日日夜夜思考这个问题。 在这种困难的抉择下，本人思来想去，寝食难安。 可是，即使是这样，故人随笔的出现仍然代表了一定的意义。 生活中，若故人随笔出现了，我们就不得不考虑它出现了的事实。 我认为， 而这些并不是完全重要，更加重要的问题是， 经过上述讨论， 这种事实对本人来说意义重大，相信对这个世界也是有一定意义的。 了解清楚故人随笔到底是一种怎么样的存在，是解决一切问题的关键。 莎士比亚曾经说过，本来无望的事，大胆尝试，往往能成功。这句话语虽然很短，但令我浮想联翩。 我们不得不面对一个非常尴尬的事实，那就是， 现在，解决故人随笔的问题，是非常非常重要的。 所以， 要想清楚，故人随笔，到底是一种怎么样的存在。 对我个人而言，故人随笔不仅仅是一个重大的事件，还可能会改变我的人生。 故人随笔，发生了会如何，不发生又会如何。 故人随笔，到底应该如何实现。 问题的关键究竟为何？ 培根说过一句富有哲理的话，要知道对好事的称颂过于夸大，也会招来人们的反感轻蔑和嫉妒。这似乎解答了我的疑惑。 卡耐基曾经说过，我们若已接受最坏的，就再没有什么损失。这似乎解答了我的疑惑。 可是，即使是这样，故人随笔的出现仍然代表了一定的意义。 而这些并不是完全重要，更加重要的问题是， 我们不得不面对一个非常尴尬的事实，那就是， 故人随笔的发生，到底需要如何做到，不故人随笔的发生，又会如何产生。 马尔顿曾经说过，坚强的信心，能使平凡的人做出惊人的事业。带着这句话，我们还要更加慎重的审视这个问题： 就我个人来说，故人随笔对我的意义，不能不说非常重大。 这样看来， 对我个人而言，故人随笔不仅仅是一个重大的事件，还可能会改变我的人生。 故人随笔，发生了会如何，不发生又会如何。 我们不得不面对一个非常尴尬的事实，那就是， 现在，解决故人随笔的问题，是非常非常重要的。 所以， 吉姆·罗恩说过一句富有哲理的话，要么你主宰生活，要么你被生活主宰。这不禁令我深思。 所谓故人随笔，关键是故人随笔需要如何写。 每个人都不得不面对这些问题。 在面对这种问题时， 本人也是经过了深思熟虑，在每个日日夜夜思考这个问题。 而这些并不是完全重要，更加重要的问题是， 可是，即使是这样，故人随笔的出现仍然代表了一定的意义。 既然如何， 我们不得不面对一个非常尴尬的事实，那就是， 那么， 故人随笔，到底应该如何实现。 一般来说， 莫扎特曾经说过，谁和我一样用功，谁就会和我一样成功。这启发了我， 我们一般认为，抓住了问题的关键，其他一切则会迎刃而解。 一般来讲，我们都必须务必慎重的考虑考虑。 要想清楚，故人随笔，到底是一种怎么样的存在。 从这个角度来看， 而这些并不是完全重要，更加重要的问题是， 本人也是经过了深思熟虑，在每个日日夜夜思考这个问题。 故人随笔因何而发生？ 雷锋曾经提到过，自己活着，就是为了使别人过得更美好。这启发了我， 经过上述讨论， 既然如此， 我认为， 每个人都不得不面对这些问题。 在面对这种问题时， 故人随笔，发生了会如何，不发生又会如何。 总结的来说， 而这些并不是完全重要，更加重要的问题是， 可是，即使是这样，故人随笔的出现仍然代表了一定的意义。 那么， 故人随笔，到底应该如何实现。 我们都知道，只要有意义，那么就必须慎重考虑。<br>　　富勒说过一句富有哲理的话，苦难磨炼一些人，也毁灭另一些人。这句话语虽然很短，但令我浮想联翩。 故人随笔因何而发生？ 故人随笔因何而发生？ 本人也是经过了深思熟虑，在每个日日夜夜思考这个问题。 对我个人而言，故人随笔不仅仅是一个重大的事件，还可能会改变我的人生。 在这种困难的抉择下，本人思来想去，寝食难安。 既然如何， 总结的来说， 所谓故人随笔，关键是故人随笔需要如何写。 那么， 这样看来， 就我个人来说，故人随笔对我的意义，不能不说非常重大。 就我个人来说，故人随笔对我的意义，不能不说非常重大。 故人随笔的发生，到底需要如何做到，不故人随笔的发生，又会如何产生。 可是，即使是这样，故人随笔的出现仍然代表了一定的意义。<br>　　这样看来， 故人随笔的发生，到底需要如何做到，不故人随笔的发生，又会如何产生。 故人随笔的发生，到底需要如何做到，不故人随笔的发生，又会如何产生。 对我个人而言，故人随笔不仅仅是一个重大的事件，还可能会改变我的人生。 经过上述讨论， 在这种困难的抉择下，本人思来想去，寝食难安。 杰纳勒尔·乔治·S·巴顿曾经说过，接受挑战，就可以享受胜利的喜悦。这句话语虽然很短，但令我浮想联翩。 马尔顿在不经意间这样说过，坚强的信心，能使平凡的人做出惊人的事业。这不禁令我深思。 一般来说， 可是，即使是这样，故人随笔的出现仍然代表了一定的意义。 可是，即使是这样，故人随笔的出现仍然代表了一定的意义。 故人随笔的发生，到底需要如何做到，不故人随笔的发生，又会如何产生。 我们都知道，只要有意义，那么就必须慎重考虑。 维龙曾经提到过，要成功不需要什么特别的才能，只要把你能做的小事做得好就行了。这似乎解答了我的疑惑。 生活中，若故人随笔出现了，我们就不得不考虑它出现了的事实。 现在，解决故人随笔的问题，是非常非常重要的。 所以， 一般来说， 鲁巴金曾经说过，读书是在别人思想的帮助下，建立起自己的思想。这启发了我， 这种事实对本人来说意义重大，相信对这个世界也是有一定意义的。 查尔斯·史考伯曾经说过，一个人几乎可以在任何他怀有无限热忱的事情上成功。 这似乎解答了我的疑惑。 要想清楚，故人随笔，到底是一种怎么样的存在。 奥普拉·温弗瑞曾经提到过，你相信什么，你就成为什么样的人。这句话语虽然很短，但令我浮想联翩。 孔子曾经提到过，知之者不如好之者，好之者不如乐之者。这句话语虽然很短，但令我浮想联翩。 故人随笔，发生了会如何，不发生又会如何。 从这个角度来看， 韩非曾经说过，内外相应，言行相称。这启发了我， 经过上述讨论， 罗曼·罗兰说过一句富有哲理的话，只有把抱怨环境的心情，化为上进的力量，才是成功的保证。这启发了我， 每个人都不得不面对这些问题。 在面对这种问题时， 我认为， 爱迪生说过一句富有哲理的话，失败也是我需要的，它和成功对我一样有价值。我希望诸位也能好好地体会这句话。 从这个角度来看， 了解清楚故人随笔到底是一种怎么样的存在，是解决一切问题的关键。 现在，解决故人随笔的问题，是非常非常重要的。 所以， 一般来讲，我们都必须务必慎重的考虑考虑。 带着这些问题，我们来审视一下故人随笔。 在这种困难的抉择下，本人思来想去，寝食难安。 就我个人来说，故人随笔对我的意义，不能不说非常重大。 在这种困难的抉择下，本人思来想去，寝食难安。 我们一般认为，抓住了问题的关键，其他一切则会迎刃而解。 这种事实对本人来说意义重大，相信对这个世界也是有一定意义的。 一般来讲，我们都必须务必慎重的考虑考虑。 既然如此。<br>　　生活中，若故人随笔出现了，我们就不得不考虑它出现了的事实。 这样看来， 我们不得不面对一个非常尴尬的事实，那就是， 每个人都不得不面对这些问题。 在面对这种问题时， 郭沫若在不经意间这样说过，形成天才的决定因素应该是勤奋。这启发了我， 别林斯基曾经说过，好的书籍是最贵重的珍宝。这不禁令我深思。 克劳斯·莫瑟爵士曾经说过，教育需要花费钱，而无知也是一样。这句话语虽然很短，但令我浮想联翩。 我们都知道，只要有意义，那么就必须慎重考虑。 我们一般认为，抓住了问题的关键，其他一切则会迎刃而解。 可是，即使是这样，故人随笔的出现仍然代表了一定的意义。 故人随笔的发生，到底需要如何做到，不故人随笔的发生，又会如何产生。 达·芬奇说过一句富有哲理的话，大胆和坚定的决心能够抵得上武器的精良。这启发了我， 故人随笔因何而发生？ 问题的关键究竟为何？ 在这种困难的抉择下，本人思来想去，寝食难安。 爱尔兰在不经意间这样说过，越是无能的人，越喜欢挑剔别人的错儿。这不禁令我深思。 马云在不经意间这样说过，最大的挑战和突破在于用人，而用人最大的突破在于信任人。带着这句话，我们还要更加慎重的审视这个问题： 故人随笔的发生，到底需要如何做到，不故人随笔的发生，又会如何产生。 对我个人而言，故人随笔不仅仅是一个重大的事件，还可能会改变我的人生。 莫扎特曾经说过，谁和我一样用功，谁就会和我一样成功。我希望诸位也能好好地体会这句话。 既然如何， 拿破仑·希尔说过一句富有哲理的话，不要等待，时机永远不会恰到好处。这句话语虽然很短，但令我浮想联翩。<br>　　那么， 本人也是经过了深思熟虑，在每个日日夜夜思考这个问题。 总结的来说， 带着这些问题，我们来审视一下故人随笔。 而这些并不是完全重要，更加重要的问题是， 既然如此， 就我个人来说，故人随笔对我的意义，不能不说非常重大。 叔本华曾经提到过，普通人只想到如何度过时间，有才能的人设法利用时间。这不禁令我深思。 这种事实对本人来说意义重大，相信对这个世界也是有一定意义的。 我们不得不面对一个非常尴尬的事实，那就是， 这样看来， 本人也是经过了深思熟虑，在每个日日夜夜思考这个问题。 带着这些问题，我们来审视一下故人随笔。 带着这些问题，我们来审视一下故人随笔。 这样看来， 故人随笔因何而发生？ 总结的来说， 歌德在不经意间这样说过，意志坚强的人能把世界放在手中像泥块一样任意揉捏。我希望诸位也能好好地体会这句话。 那么， 在这种困难的抉择下，本人思来想去，寝食难安。 就我个人来说，故人随笔对我的意义，不能不说非常重大。 故人随笔因何而发生？ 康德曾经提到过，既然我已经踏上这条道路，那么，任何东西都不应妨碍我沿着这条路走下去。带着这句话，我们还要更加慎重的审视这个问题： 生活中，若故人随笔出现了，我们就不得不考虑它出现了的事实。 这样看来， 就我个人来说，故人随笔对我的意义，不能不说非常重大。 每个人都不得不面对这些问题。 在面对这种问题时， 故人随笔因何而发生？ 对我个人而言，故人随笔不仅仅是一个重大的事件，还可能会改变我的人生。 从这个角度来看， 就我个人来说，故人随笔对我的意义，不能不说非常重大。 在这种困难的抉择下，本人思来想去，寝食难安。 在这种困难的抉择下，本人思来想去，寝食难安。 佚名在不经意间这样说过，感激每一个新的挑战，因为它会锻造你的意志和品格。这不禁令我深思。 故人随笔，到底应该如何实现。 对我个人而言，故人随笔不仅仅是一个重大的事件，还可能会改变我的人生。 对我个人而言，故人随笔不仅仅是一个重大的事件，还可能会改变我的人生。 那么， 这种事实对本人来说意义重大，相信对这个世界也是有一定意义的。 既然如此， 这样看来， 可是，即使是这样，故人随笔的出现仍然代表了一定的意义。 故人随笔的发生，到底需要如何做到，不故人随笔的发生，又会如何产生。 一般来说， 故人随笔，发生了会如何，不发生又会如何。 既然如此， 我们都知道，只要有意义，那么就必须慎重考虑。 故人随笔的发生，到底需要如何做到，不故人随笔的发生，又会如何产生。 那么， 一般来讲，我们都必须务必慎重的考虑考虑。 这样看来， 那么， 故人随笔的发生，到底需要如何做到，不故人随笔的发生，又会如何产生。 故人随笔的发生，到底需要如何做到，不故人随笔的发生，又会如何产生。 我们不得不面对一个非常尴尬的事实，那就是， 罗素·贝克曾经提到过，一个人即使已登上顶峰，也仍要自强不息。这启发了我， 了解清楚故人随笔到底是一种怎么样的存在，是解决一切问题的关键。 现在，解决故人随笔的问题，是非常非常重要的。 所以， 总结的来说， 从这个角度来看， 米歇潘曾经提到过，生命是一条艰险的峡谷，只有勇敢的人才能通过。这不禁令我深思。 我们一般认为，抓住了问题的关键，其他一切则会迎刃而解。 从这个角度来看， 在这种困难的抉择下，本人思来想去，寝食难安。 莎士比亚曾经说过，意志命运往往背道而驰，决心到最后会全部推倒。这似乎解答了我的疑惑。 可是，即使是这样，故人随笔的出现仍然代表了一定的意义。 我们不得不面对一个非常尴尬的事实，那就是。<br>　　而这些并不是完全重要，更加重要的问题是， 一般来说， 鲁巴金曾经说过，读书是在别人思想的帮助下，建立起自己的思想。这启发了我， 歌德说过一句富有哲理的话，意志坚强的人能把世界放在手中像泥块一样任意揉捏。我希望诸位也能好好地体会这句话。 生活中，若故人随笔出现了，我们就不得不考虑它出现了的事实。 从这个角度来看， 要想清楚，故人随笔，到底是一种怎么样的存在。 我们都知道，只要有意义，那么就必须慎重考虑。 故人随笔的发生，到底需要如何做到，不故人随笔的发生，又会如何产生。 故人随笔，到底应该如何实现。 我们一般认为，抓住了问题的关键，其他一切则会迎刃而解。 要想清楚，故人随笔，到底是一种怎么样的存在。 要想清楚，故人随笔，到底是一种怎么样的存在。 我们一般认为，抓住了问题的关键，其他一切则会迎刃而解。 卡耐基曾经说过，一个不注意小事情的人，永远不会成就大事业。这不禁令我深思。 那么， 西班牙曾经说过，自己的鞋子，自己知道紧在哪里。这句话语虽然很短，但令我浮想联翩。 既然如何， 现在，解决故人随笔的问题，是非常非常重要的。 所以， 了解清楚故人随笔到底是一种怎么样的存在，是解决一切问题的关键。 问题的关键究竟为何？ 现在，解决故人随笔的问题，是非常非常重要的。 所以， 总结的来说， 就我个人来说，故人随笔对我的意义，不能不说非常重大。 故人随笔的发生，到底需要如何做到，不故人随笔的发生，又会如何产生。 海贝尔曾经说过，人生就是学校。在那里，与其说好的教师是幸福，不如说好的教师是不幸。这似乎解答了我的疑惑。 这样看来， 故人随笔，到底应该如何实现。 易卜生曾经提到过，伟大的事业，需要决心，能力，组织和责任感。我希望诸位也能好好地体会这句话。 本人也是经过了深思熟虑，在每个日日夜夜思考这个问题。 这种事实对本人来说意义重大，相信对这个世界也是有一定意义的。 从这个角度来看， 这种事实对本人来说意义重大，相信对这个世界也是有一定意义的。<br>　　经过上述讨论， 贝多芬在不经意间这样说过，卓越的人一大优点是：在不利与艰难的遭遇里百折不饶。我希望诸位也能好好地体会这句话。 就我个人来说，故人随笔对我的意义，不能不说非常重大。 这样看来， 既然如何， 我们都知道，只要有意义，那么就必须慎重考虑。 我们都知道，只要有意义，那么就必须慎重考虑。 希腊在不经意间这样说过，最困难的事情就是认识自己。我希望诸位也能好好地体会这句话。 问题的关键究竟为何？ 带着这些问题，我们来审视一下故人随笔。 所谓故人随笔，关键是故人随笔需要如何写。 问题的关键究竟为何？ 问题的关键究竟为何。<br>　　每个人都不得不面对这些问题。 在面对这种问题时， 每个人都不得不面对这些问题。 在面对这种问题时， 总结的来说， 我们一般认为，抓住了问题的关键，其他一切则会迎刃而解。 乌申斯基说过一句富有哲理的话，学习是劳动，是充满思想的劳动。这启发了我， 莎士比亚曾经说过，人的一生是短的，但如果卑劣地过这一生，就太长了。带着这句话，我们还要更加慎重的审视这个问题： 生活中，若故人随笔出现了，我们就不得不考虑它出现了的事实。 要想清楚，故人随笔，到底是一种怎么样的存在。 所谓故人随笔，关键是故人随笔需要如何写。 带着这些问题，我们来审视一下故人随笔。 从这个角度来看， 了解清楚故人随笔到底是一种怎么样的存在，是解决一切问题的关键。 赫尔普斯曾经说过，有时候读书是一种巧妙地避开思考的方法。我希望诸位也能好好地体会这句话。 总结的来说， 本人也是经过了深思熟虑，在每个日日夜夜思考这个问题。 这种事实对本人来说意义重大，相信对这个世界也是有一定意义的。 一般来说， 史美尔斯说过一句富有哲理的话，书籍把我们引入最美好的社会，使我们认识各个时代的伟大智者。带着这句话，我们还要更加慎重的审视这个问题： 塞涅卡在不经意间这样说过，生命如同寓言，其价值不在与长短，而在与内容。这句话语虽然很短，但令我浮想联翩。 既然如何， 从这个角度来看， 那么， 故人随笔的发生，到底需要如何做到，不故人随笔的发生，又会如何产生。 要想清楚，故人随笔，到底是一种怎么样的存在。 既然如此， 吉格·金克拉曾经说过，如果你能做梦，你就能实现它。这句话语虽然很短，但令我浮想联翩。 雷锋在不经意间这样说过，自己活着，就是为了使别人过得更美好。我希望诸位也能好好地体会这句话。 了解清楚故人随笔到底是一种怎么样的存在，是解决一切问题的关键。 就我个人来说，故人随笔对我的意义，不能不说非常重大。 从这个角度来看， 既然如何， 故人随笔，到底应该如何实现。 可是，即使是这样，故人随笔的出现仍然代表了一定的意义。 经过上述讨论， 经过上述讨论， 在这种困难的抉择下，本人思来想去，寝食难安。 要想清楚，故人随笔，到底是一种怎么样的存在。 一般来讲，我们都必须务必慎重的考虑考虑。 而这些并不是完全重要，更加重要的问题是， 对我个人而言，故人随笔不仅仅是一个重大的事件，还可能会改变我的人生。 我们一般认为，抓住了问题的关键，其他一切则会迎刃而解。 我们都知道，只要有意义，那么就必须慎重考虑。 总结的来说， 既然如此， 问题的关键究竟为何？ 现在，解决故人随笔的问题，是非常非常重要的。 所以， 从这个角度来看， 我们一般认为，抓住了问题的关键，其他一切则会迎刃而解。 阿卜·日·法拉兹说过一句富有哲理的话，学问是异常珍贵的东西，从任何源泉吸收都不可耻。这启发了我， 既然如此， 既然如何。<br>　　总结的来说， 可是，即使是这样，故人随笔的出现仍然代表了一定的意义。 故人随笔，发生了会如何，不发生又会如何。 这样看来， 这样看来， 每个人都不得不面对这些问题。 在面对这种问题时， 就我个人来说，故人随笔对我的意义，不能不说非常重大。 故人随笔，到底应该如何实现。 吉姆·罗恩在不经意间这样说过，要么你主宰生活，要么你被生活主宰。带着这句话，我们还要更加慎重的审视这个问题： 故人随笔，到底应该如何实现。 歌德在不经意间这样说过，没有人事先了解自己到底有多大的力量，直到他试过以后才知道。这似乎解答了我的疑惑。 就我个人来说，故人随笔对我的意义，不能不说非常重大。 这种事实对本人来说意义重大，相信对这个世界也是有一定意义的。 生活中，若故人随笔出现了，我们就不得不考虑它出现了的事实。 所谓故人随笔，关键是故人随笔需要如何写。 就我个人来说，故人随笔对我的意义，不能不说非常重大。 就我个人来说，故人随笔对我的意义，不能不说非常重大。 要想清楚，故人随笔，到底是一种怎么样的存在。 那么， 一般来说， 生活中，若故人随笔出现了，我们就不得不考虑它出现了的事实。 了解清楚故人随笔到底是一种怎么样的存在，是解决一切问题的关键。<br>　　从这个角度来看， 那么， 故人随笔的发生，到底需要如何做到，不故人随笔的发生，又会如何产生。 既然如何， 可是，即使是这样，故人随笔的出现仍然代表了一定的意义。 而这些并不是完全重要，更加重要的问题是， 迈克尔·F·斯特利曾经说过，最具挑战性的挑战莫过于提升自我。我希望诸位也能好好地体会这句话。 生活中，若故人随笔出现了，我们就不得不考虑它出现了的事实。 那么， 别林斯基在不经意间这样说过，好的书籍是最贵重的珍宝。这启发了我， 既然如何， 问题的关键究竟为何？ 故人随笔因何而发生？ 对我个人而言，故人随笔不仅仅是一个重大的事件，还可能会改变我的人生。 而这些并不是完全重要，更加重要的问题是， 培根曾经说过，阅读使人充实，会谈使人敏捷，写作使人精确。这句话语虽然很短，但令我浮想联翩。 可是，即使是这样，故人随笔的出现仍然代表了一定的意义。 笛卡儿在不经意间这样说过，阅读一切好书如同和过去最杰出的人谈话。我希望诸位也能好好地体会这句话。 既然如何， 那么， 这种事实对本人来说意义重大，相信对这个世界也是有一定意义的。 就我个人来说，故人随笔对我的意义，不能不说非常重大。 斯宾诺莎曾经说过，最大的骄傲于最大的自卑都表示心灵的最软弱无力。这不禁令我深思。 海贝尔在不经意间这样说过，人生就是学校。在那里，与其说好的教师是幸福，不如说好的教师是不幸。这启发了我， 而这些并不是完全重要，更加重要的问题是， 现在，解决故人随笔的问题，是非常非常重要的。 所以， 问题的关键究竟为何？ 伏尔泰曾经提到过，坚持意志伟大的事业需要始终不渝的精神。这不禁令我深思。 故人随笔的发生，到底需要如何做到，不故人随笔的发生，又会如何产生。 白哲特曾经提到过，坚强的信念能赢得强者的心，并使他们变得更坚强。 这句话语虽然很短，但令我浮想联翩。</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 瞎哔哔 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 狗屁不通 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>插件记录</title>
+      <link href="/posts/60161.html"/>
+      <url>/posts/60161.html</url>
+      
+        <content type="html"><![CDATA[<h3 id="插件-防止丢失"><a href="#插件-防止丢失" class="headerlink" title="插件 (防止丢失)"></a>插件 (防止丢失)</h3><ol><li>hexo-deplayer-git</li></ol><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">npm install hexo-deployer-git --save</span><br></pre></td></tr></table></figure><ol start="2"><li><a href="https://github.com/xcodebuild/hexo-asset-image">hexo-asset-image</a><br>不必多说,必装的图片插件</li></ol><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">npm install hexo-asset-image --save</span><br></pre></td></tr></table></figure><pre><code>**_config.yml** 配置文件</code></pre><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">post_asset_folder: false改为true</span><br></pre></td></tr></table></figure><ol start="3"><li><a href="https://github.com/rozbo/hexo-abbrlink">hexo-abbrlink</a><br>解决站点链接中文编码问题(此插件会与图片插件产生冲突,解决方案参考<a href="https://imgod.me/posts/55.html">此文章</a>)</li></ol><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">npm install hexo-abbrlink --save</span><br></pre></td></tr></table></figure><p><strong><code>_config.yml</code></strong> 配置文件</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br></pre></td><td class="code"><pre><span class="line"># permalink: :year/:month/:day/:title/</span><br><span class="line"># permalink_defaults:</span><br><span class="line">permalink: posts/:abbrlink.html</span><br><span class="line">abbrlink:</span><br><span class="line">  # alg: crc32 #算法： crc16(default) and crc32</span><br><span class="line">  rep: dec #进制： dec(default) and hex</span><br></pre></td></tr></table></figure><ol><li><a href="https://github.com/hexojs/hexo-renderer-pug">hexo-renderer-pug</a><br>渲染器</li></ol><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">npm install hexo-renderer-pug hexo-renderer-stylus --save</span><br></pre></td></tr></table></figure><ol><li><a href="https://github.com/coneycode/hexo-generator-baidu-sitemap">hexo-generator-baidu-sitemap</a><br>站点地图插件</li></ol><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">npm install hexo-generator-baidu-sitemap --save</span><br></pre></td></tr></table></figure><ol><li><a href="https://github.com/wzpan/hexo-generator-search">hexo-generator-search</a><br>本地搜索插件</li></ol><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">npm install hexo-generator-search --save</span><br></pre></td></tr></table></figure><ol start="7"><li><a href="https://github.com/D0n9X1n/hexo-blog-encrypt">hexo-blog-encrypt</a><br>文章加密插件</li></ol><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">npm install --save hexo-blog-encrypt</span><br></pre></td></tr></table></figure><p><strong><code>post.md</code></strong> 文件</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br></pre></td><td class="code"><pre><span class="line">title: &#123;&#123; title &#125;&#125;</span><br><span class="line">abbrlink:</span><br><span class="line">date: &#123;&#123; date &#125;&#125;</span><br><span class="line">categories:</span><br><span class="line">tags:</span><br><span class="line">description:</span><br><span class="line">password:</span><br><span class="line">abstract: 有东西被加密了, 请输入密码查看.</span><br><span class="line">message: 您好, 这里需要密码.</span><br></pre></td></tr></table></figure>]]></content>
+      
+      
+      <categories>
+          
+          <category> Hexo </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Notes </tag>
+            
+            <tag> Hexo </tag>
+            
+            <tag> butterfly </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>abbrlink插件导致图片失效</title>
+      <link href="/posts/55.html"/>
+      <url>/posts/55.html</url>
+      
+        <content type="html"><![CDATA[<p><img src="/posts/55/image.png"><br><strong>abbrlink 导致图片无法显示</strong></p><span id="more"></span><p>在 hexo 里我们引入图片都是用 hexo-asset-image 插件，但单独使用是没有问题的，<br>如果遇到标题包含中文的情况下我们复制文章链接会变成一堆很长的编码，<br>这时候我们就要用到 abbrlink 插件，<br>至于插件如何使用我就不多赘述了，看文档即可<br>当我们配置完成后，就会发现虽然文章链接确实没有问题了，但是图片却无法显示</p><p>我们打开 f12 查看会发现图片路径变成 <code>/.io//001.webp</code> 而实际路径应该是 <code>posts/:abbrlink/001.webp</code></p><h4 id="解决方案-一"><a href="#解决方案-一" class="headerlink" title="解决方案(一)"></a>解决方案(一)</h4><blockquote><p><strong>适用于 <code>permalink: posts/:abbrlink/</code>方案</strong></p></blockquote><p>打开<code>blog\node_modules\hexo-asset-image\index.js</code>文件</p><p>将其中第 24 行代码<code>var endPos = link.lastIndexOf('.');</code><br>更改为<code>var endPos = link.length-1;</code></p><p>重新<code>Git Bash Here</code></p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">hexo clean</span><br><span class="line">hexo g</span><br><span class="line">hexo d</span><br></pre></td></tr></table></figure><h4 id="解决方案-二"><a href="#解决方案-二" class="headerlink" title="解决方案(二)"></a>解决方案(二)</h4><blockquote><p><strong>适用于 <code>permalink: posts/:abbrlink.html</code>方案</strong></p></blockquote><p>打开<code>blog\node_modules\hexo-asset-image\index.js</code>文件</p><p>将其中第 24 行代码<code>var endPos = link.lastIndexOf('.');</code><br>更改为<code>var endPos = link.length-5;</code></p><p>重新<code>Git Bash Here</code></p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">hexo clean</span><br><span class="line">hexo g</span><br><span class="line">hexo d</span><br></pre></td></tr></table></figure><blockquote><p>参考链接<a href="https://github.com/xcodebuild/hexo-asset-image">Github hexo-asset-image</a></p></blockquote>]]></content>
+      
+      
+      <categories>
+          
+          <category> Hexo </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Notes </tag>
+            
+            <tag> Hexo </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>ssh key绑定GitHub时提示22端口连接超时</title>
+      <link href="/posts/34120.html"/>
+      <url>/posts/34120.html</url>
+      
+        <content type="html"><![CDATA[<p><img src="/posts/34120/ssh.png"></p><p>帮朋友调试 Hexo，输入<code>ssh -T <a href="mailto:&#x67;&#105;&#x74;&#x40;&#x67;&#x69;&#116;&#x68;&#117;&#x62;&#46;&#x63;&#111;&#x6d;">&#x67;&#105;&#x74;&#x40;&#x67;&#x69;&#116;&#x68;&#117;&#x62;&#46;&#x63;&#111;&#x6d;</a></code>验证是否成功绑定 GitHub 时，提示<code>ssh: connect to host github.com port 22: Connection timed out</code></p><span id="more"></span><h4 id="第一次测试"><a href="#第一次测试" class="headerlink" title="第一次测试"></a><del>第一次测试</del></h4><p>首先我根据下面大佬的案例，在.ssh 文件夹下配置了一个 config 文件，试了下老哥说的修改端口的方案，然后重新配置 git，验证用户名、邮箱，然后失败，依然提示连接 github. com 22 端口:超时</p><blockquote><p>以上参考<a href="https://blog.csdn.net/qq_38330148/article/details/109371362">“ssh:connect to host github.com port 22: Connection timed out“问题的解决</a></p></blockquote><h4 id="第二次测试"><a href="#第二次测试" class="headerlink" title="第二次测试"></a><del>第二次测试</del></h4><p>我怀疑是网络问题，切换了一下网络节点，重新测试，但是由于网络太差，在我这里的节点速度能跑到 6 兆的节点，在朋友那里居然只能跑到 0.3 兆，依然报错，在期间我试图用其他 GitHub 账户来测试，但在登陆时，提示输入验证码时，重新发送了三次都没有收到短信，换账号依然如此，然后放弃，这时候第一条 GitHub 的短信验证才收到，期间差不多过了五分钟，这时候我还没有意识到网络的延迟这么大。</p><h4 id="第三次测试-√"><a href="#第三次测试-√" class="headerlink" title="第三次测试 √"></a>第三次测试 √</h4><p>这次我怀疑是密钥的问题，我在<code>控制面板\用户帐户\凭据管理器</code>删除了之前绑定的密钥，但这次我没有第一时间测试，我去翻看了一下网络不好怎么访问 GitHub，然后又看到知乎大神修改 host 访问 GitHub，于是死马当活马医，修改了 host 文件,文件路径为</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">C:\Windows\System32\drivers\etc</span><br></pre></td></tr></table></figure><p>用 VScode 打开 hosts 在后面加上如下内容</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br><span class="line">25</span><br></pre></td><td class="code"><pre><span class="line">140.82.114.4 github.com</span><br><span class="line">140.82.114.10 nodeload.github.com</span><br><span class="line">140.82.114.6 api.github.com</span><br><span class="line">140.82.114.10 codeload.github.com</span><br><span class="line">185.199.108.133 raw.github.com</span><br><span class="line">185.199.108.153 training.github.com</span><br><span class="line">185.199.108.153 assets-cdn.github.com</span><br><span class="line">185.199.108.153 documentcloud.github.com</span><br><span class="line">185.199.108.154 help.github.com</span><br><span class="line"></span><br><span class="line"># domain: githubstatus.com</span><br><span class="line">185.199.108.153 githubstatus.com</span><br><span class="line"></span><br><span class="line"># domain: fastly.net</span><br><span class="line">199.232.69.194 github.global.ssl.fastly.net</span><br><span class="line"></span><br><span class="line"># domain: githubusercontent.com</span><br><span class="line">185.199.108.133 raw.githubusercontent.com</span><br><span class="line">185.199.108.154 pkg-containers.githubusercontent.com</span><br><span class="line">185.199.108.133 cloud.githubusercontent.com</span><br><span class="line">185.199.108.133 gist.githubusercontent.com</span><br><span class="line">185.199.108.133 marketplace-screenshots.githubusercontent.com</span><br><span class="line">185.199.108.133 repository-images.githubusercontent.com</span><br><span class="line">185.199.108.133 user-images.githubusercontent.com</span><br><span class="line">185.199.108.133 desktop.githubusercontent.com</span><br></pre></td></tr></table></figure><p>重新生成密钥，绑定密钥，测试，完事</p><hr><p>在写这篇文章的时候，我重新梳理了一下过程，实际上原因很简单，就是网络延迟太高，在我过了那么久才收到短信的时候后，就应该想到为什么这么慢，朋友在西部地区，外网延迟高的太离谱，实测不能直接访问 vercel 托管的站点，gitpage 更不敢想象。</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Hexo </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Notes </tag>
+            
+            <tag> Hexo </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>unraid一点通</title>
+      <link href="/posts/39559.html"/>
+      <url>/posts/39559.html</url>
+      
+        <content type="html"><![CDATA[<p><img src="/posts/39559/unraid.jpg"><br><strong>通过虚拟软路由给 unraid 自身网络代理</strong></p><span id="more"></span><p><strong>我相信很多人知道 unraid 是因为 b 站的 <a href="https://space.bilibili.com/28457">寂寞催眠师缩图</a> 安利的,但是呢，毕竟在 gfw 内部嘛，许多问题没办法直接百度找出来的</strong></p><hr><p><img src="/posts/39559/unraidzhuji.jpg"></p><h4 id="注意"><a href="#注意" class="headerlink" title="注意:"></a>注意:</h4><p><strong>填坑的前提是 unraid 已经安装好</strong></p><h3 id="最主要的问题其实就网络问题，其他的问题自然而然就解决了（什么汉化、装插件等一堆乱七八糟的问题都包含在内）"><a href="#最主要的问题其实就网络问题，其他的问题自然而然就解决了（什么汉化、装插件等一堆乱七八糟的问题都包含在内）" class="headerlink" title="最主要的问题其实就网络问题，其他的问题自然而然就解决了（什么汉化、装插件等一堆乱七八糟的问题都包含在内）"></a>最主要的问题其实就网络问题，其他的问题自然而然就解决了（什么汉化、装插件等一堆乱七八糟的问题都包含在内）</h3><p>那么有软路由的朋友我觉得应该不会遇到什么的问题，像我这种没有软路由的，就要考虑通过虚拟机软路由来给 unraid 自身代理</p><p>其实操作起来也不麻烦</p><blockquote><p>1、关闭阵列，<br>2、打开设置里的网络设置，<br>3、<strong>将 unraid 的网关和 dns 改为软路由的 ip 地址</strong><br>保存即可</p></blockquote><p>v2 或者酸酸乳在 openwrt 的大部分定制包里都可以用，<a href="https://god23812-my.sharepoint.com/:u:/g/personal/god_god23812_onmicrosoft_com/EanjomVCW3BGllCGObkT2XcBdurhslv61aSDvu1xnbCczw?e=nDwoqC">点击这里</a>下载我用的 openwrt 镜像</p><blockquote><p>补一句，自建和机场各有利弊，自建的缺点就是成本高、同价格速度慢、有被墙风险、小主机也有跑路风险，机场的缺点就是绝大部分不是原生 ip、跑路的等等等等，不用听别人介绍自建一定好，没什么特殊需求买机场的就可以了，便宜速度还可以</p></blockquote><hr><p><strong>关于我个人对于 nas 的看法</strong><br>不要觉得 nas 很高级，nas 其实就是个私人网盘，只不过能存点小视频什么的，不会被删东西而已，那么 nas 系统如群晖、威联通以及 Unraid 其实就是个定制化系统对于文件管理更友好而已，windows 的此电脑管理文件也不差嘛，个人没需求就必要跟风买 nas，那属于给自己创造需求，一定要确定自己的需求，按需消费，直接入正版 nas 费钱，但是 diy 不一定省钱，组装好以后吃灰的太多了，这点钱买点肘子吃不香么</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> unraid </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Notes </tag>
+            
+            <tag> unraid </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>优化博客访问速度</title>
+      <link href="/posts/29733.html"/>
+      <url>/posts/29733.html</url>
+      
+        <content type="html"><![CDATA[<p><strong>Jsdelivr 是一个很好用的 CDN 服务商，由一些不知名的原因，jsdelivr 在国内的备案被取消了，所以导致博客时不时抽风，这里记录以下 next 主题更换 cdn</strong></p><h2 id><a href="#" class="headerlink" title></a><span id="more"></span></h2><p>NexT 在 8.9.0 版本增加了对于自定义 CDN 的选项，我们根据<a href="https://theme-next.js.org/docs/advanced-settings/vendors.html?highlight=cdn#CDN-Settings">文档</a>提示，我们需要在主题配置文件下的<code>vendors.custom_cdn_url</code>下添加 cdn 链接，如下</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br></pre></td><td class="code"><pre><span class="line">初始配置:</span><br><span class="line">vendors:</span><br><span class="line">  # The CDN provider of NexT internal scripts.</span><br><span class="line">  # Available values: local | jsdelivr | unpkg | cdnjs | custom</span><br><span class="line">  # Warning: If you are using the latest master branch of NexT, please set `internal: local`</span><br><span class="line">  internal: local</span><br><span class="line">  # The default CDN provider of third-party plugins.</span><br><span class="line">  # Available values: local | jsdelivr | unpkg | cdnjs | custom</span><br><span class="line">  # Dependencies for `plugins: local`: https://github.com/next-theme/plugins</span><br><span class="line">  plugins: jsdelivr</span><br><span class="line">  # Custom CDN URL</span><br><span class="line">  # For example:</span><br><span class="line">  # custom_cdn_url: https://cdn.jsdelivr.net/npm/$&#123;npm_name&#125;@$&#123;version&#125;/$&#123;minified&#125;</span><br><span class="line">  # custom_cdn_url: https://cdnjs.cloudflare.com/ajax/libs/$&#123;cdnjs_name&#125;/$&#123;version&#125;/$&#123;cdnjs_file&#125;</span><br><span class="line">  custom_cdn_url:</span><br></pre></td></tr></table></figure><p>我们只需要将下面代码替换初始配置代码即可</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br><span class="line">25</span><br></pre></td><td class="code"><pre><span class="line">vendors:</span><br><span class="line">  # The CDN provider of NexT internal scripts.</span><br><span class="line">  # Available values: local | jsdelivr | unpkg | cdnjs | custom</span><br><span class="line">  # Warning: If you are using the latest master branch of NexT, please set `internal: local`</span><br><span class="line">  internal: local</span><br><span class="line">  # The default CDN provider of third-party plugins.</span><br><span class="line">  # Available values: local | jsdelivr | unpkg | cdnjs | custom</span><br><span class="line">  # Dependencies for `plugins: local`: https://github.com/next-theme/plugins</span><br><span class="line">  plugins: unpkg</span><br><span class="line">  # Custom CDN URL</span><br><span class="line">  # For example:</span><br><span class="line">  # custom_cdn_url: https://cdn.jsdelivr.net/npm/$&#123;npm_name&#125;@$&#123;version&#125;/$&#123;minified&#125;</span><br><span class="line">  # custom_cdn_url: https://cdnjs.cloudflare.com/ajax/libs/$&#123;cdnjs_name&#125;/$&#123;version&#125;/$&#123;cdnjs_file&#125;</span><br><span class="line">  fontawesome: https://lf6-cdn-tos.bytecdntp.com/cdn/expire-1-ms/font-awesome/5.15.2/css/all.min.css</span><br><span class="line">  animate_css: https://lf6-cdn-tos.bytecdntp.com/cdn/expire-1-ms/animate.css/3.1.1/animate.min.css</span><br><span class="line">  anime: https://lf6-cdn-tos.bytecdntp.com/cdn/expire-1-ms/animejs/3.2.1/anime.min.js</span><br><span class="line">  mediumzoom: https://lf26-cdn-tos.bytecdntp.com/cdn/expire-1-M/medium-zoom/1.0.6/medium-zoom.min.js</span><br><span class="line">  jquery: https://lf3-cdn-tos.bytecdntp.com/cdn/expire-1-ms/jquery/3.5.1/jquery.min.js</span><br><span class="line">  fancybox_js: https://lf26-cdn-tos.bytecdntp.com/cdn/expire-1-ms/fancybox/3.5.7/jquery.fancybox.min.js</span><br><span class="line">  fancybox_css: https://lf9-cdn-tos.bytecdntp.com/cdn/expire-1-ms/fancybox/3.5.7/jquery.fancybox.min.css</span><br><span class="line">  lazyload: https://lf9-cdn-tos.bytecdntp.com/cdn/expire-1-ms/lozad.js/1.16.0/lozad.min.js</span><br><span class="line">  pangu: https://lf9-cdn-tos.bytecdntp.com/cdn/expire-1-ms/pangu/4.0.7/pangu.min.js</span><br><span class="line">  quicklink: https://lf3-cdn-tos.bytecdntp.com/cdn/expire-1-ms/quicklink/2.1.0/quicklink.umd.min.js</span><br><span class="line">  gitalk_js: https://lf26-cdn-tos.bytecdntp.com/cdn/expire-1-ms/gitalk/1.7.0/gitalk.min.js</span><br><span class="line">  gitalk_css: https://lf3-cdn-tos.bytecdntp.com/cdn/expire-1-ms/gitalk/1.7.0/gitalk.min.css</span><br></pre></td></tr></table></figure><blockquote><p>这里只是我需要用到的 cdn 地址，如果同志们有需要其他文件 cdn 请按需自行添加即可</p></blockquote><p><strong><del>end</del></strong></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> NexT </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Notes </tag>
+            
+            <tag> NexT </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>AutoApi笔记</title>
+      <link href="/posts/39181.html"/>
+      <url>/posts/39181.html</url>
+      
+        <content type="html"><![CDATA[<p><strong>AutoApi 配置笔记，记录一下，以防丢失</strong></p><span id="more"></span><hr><p><strong>此文仅为 AutoApi 配置笔记，不是续订教程，不保证百分百续订</strong></p><blockquote><p><strong>所需工具:</strong><br>e5 管理员账户<br><a href="https://rclone.org/">rclone</a></p></blockquote><h4 id="注册管理员账户"><a href="#注册管理员账户" class="headerlink" title="注册管理员账户"></a>注册管理员账户</h4><p>直接进入<a href="https://www.microsoft.com/">微软</a>官网,点击页面底部 office365 开发人员计划<br><img src="/posts/39181/%E6%B3%A8%E5%86%8C.webp"></p><h4 id="Microsoft-Azure-注册应用"><a href="#Microsoft-Azure-注册应用" class="headerlink" title="Microsoft Azure 注册应用"></a>Microsoft Azure 注册应用</h4><ol><li>使用 e5 管理员账户登录进入<a href="https://portal.azure.com/">Microsoft Azure 官网</a></li><li>点击 Azure Active Directory 下方的查看<br><img src="/posts/39181/autoAPI1.webp"></li><li>注册新的应用<br><img src="/posts/39181/autoAPI2.webp"></li><li>填入信息，完成后点击注册</li></ol><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line">名称随便填</span><br><span class="line">受支持的账户类型选择任何组织目录</span><br><span class="line">重定向URL选择web</span><br><span class="line">地址填http://localhost:23812/</span><br></pre></td></tr></table></figure><p><img src="/posts/39181/autoAPI3.png"> 5. 复制应用程序(客户端)ID 到记事本<br><img src="/posts/39181/autoAPI4.webp"> 6. 新建客户端密码<br><img src="/posts/39181/autoAPI5.webp"> 7. 复制密码到记事本<br><img src="/posts/39181/autoAPI6.webp"> 8. 点击左侧 api 权限<br><img src="/posts/39181/autoAPI7.webp"> 9. 依次将下面 12 条权限添加</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br></pre></td><td class="code"><pre><span class="line">Calendars.ReadWrite</span><br><span class="line">Contacts.ReadWrite</span><br><span class="line">Directory.ReadWrite.All</span><br><span class="line">Files.ReadWrite.All</span><br><span class="line">MailboxSettings.ReadWrite</span><br><span class="line">Mail.ReadWrite</span><br><span class="line">Mail.Send</span><br><span class="line">Notes.ReadWrite.All</span><br><span class="line">People.Read.All</span><br><span class="line">Sites.ReadWrite.All</span><br><span class="line">Tasks.ReadWrite</span><br><span class="line">User.ReadWrite.All</span><br></pre></td></tr></table></figure><p><img src="/posts/39181/autoAPI8.webp"> 10. 添加完成后，点击代表授予管理员同意<br><img src="/posts/39181/autoAPI9.webp"> 11. 打开 rclone 解压出来的文件夹，在文件夹内打开 powershell，输入以下指令，在弹出来的页面上登录自己的管理员账户</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">./rclone authorize &quot;onedrive&quot; &quot;应用程序(客户端)ID&quot; &quot;客户端密码&quot;</span><br></pre></td></tr></table></figure><blockquote><p>应用程序(客户端)ID,客户端密码都在记事本保存了,替换成自己的</p></blockquote><p><img src="/posts/39181/autoAPI10.webp"><br><img src="/posts/39181/autoAPI11.webp"> 12. 回到 powershell 界面，复制密钥到记事本</p><blockquote><p>“refresh_token”:” 到 “,”expiry”之间的字符为微软密钥，不包括双引号</p></blockquote><p><img src="/posts/39181/autoAPI12.webp"></p><h4 id="GitHub-配置-AutoApi"><a href="#GitHub-配置-AutoApi" class="headerlink" title="GitHub 配置 AutoApi"></a>GitHub 配置 AutoApi</h4><ol><li>Fork <a href="https://github.com/godhongkong/Efive">AutoApi</a>项目<br><img src="/posts/39181/autoAPI13.webp"></li><li>打开 Settings，Developer settings，Personal access tokens<br><img src="/posts/39181/autoAPI14.webp"></li><li>新建 GitHub 密钥</li><li><blockquote><p>名称为 GH_TOKEN<br>勾选 repo</p></blockquote></li></ol><p><img src="/posts/39181/autoAPI15.webp"> 5. 复制 GitHub 密钥到记事本<br><img src="/posts/39181/autoAPI16.webp"> 6. 新建 secret<br><img src="/posts/39181/autoAPI17.webp"><br>分别创建六个 secret</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">Name:CLIENT_ID</span><br><span class="line">Value:[应用程序(客户端)ID]</span><br></pre></td></tr></table></figure><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">Name:CLIENT_SECRET</span><br><span class="line">Value:[客户端密码]</span><br></pre></td></tr></table></figure><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">Name:MS_TOKEN</span><br><span class="line">Value:[微软密钥]</span><br></pre></td></tr></table></figure><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">Name:GH_TOKEN</span><br><span class="line">Value:[GitHub密钥]</span><br></pre></td></tr></table></figure><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">Name:CITY</span><br><span class="line">Value:[城市,用于发送天气邮件，比如Prague]</span><br></pre></td></tr></table></figure><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">Name:EMAIL</span><br><span class="line">Value:[用于接收邮件的邮箱]</span><br></pre></td></tr></table></figure><h4 id="测试"><a href="#测试" class="headerlink" title="测试"></a>测试</h4><p>进入 Action 界面按提示开启，双击项目右上角 star，如有进程，说明运行成功</p><hr><p><strong>免费的资源有限，按需使用，虽然是不差钱的巨硬，且行且珍惜罢</strong></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Office365 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Notes </tag>
+            
+            <tag> Office365 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>hexo博客怎么多台电脑同步更新</title>
+      <link href="/posts/63977.html"/>
+      <url>/posts/63977.html</url>
+      
+        <content type="html"><![CDATA[<blockquote><p>前提条件<br>hexo 已经安装,<a href="https://imgod.me/posts/39317.html">安装方法</a></p></blockquote><p>此方案用于多设备同步以及备份</p><h4 id="旧电脑"><a href="#旧电脑" class="headerlink" title="旧电脑"></a>旧电脑</h4><h5 id="创建新分支"><a href="#创建新分支" class="headerlink" title="创建新分支"></a>创建新分支</h5><p>这里我们创建一个名为<code>backup</code>的分支</p><p><img src="/posts/63977/update%20(1).png"></p><h5 id="把新分支设为默认分支"><a href="#把新分支设为默认分支" class="headerlink" title="把新分支设为默认分支"></a>把新分支设为默认分支</h5><blockquote><p>博客项目存储库设置-分支-修改默认分支即可</p></blockquote><p><img src="/posts/63977/update%20(2).png"></p><h5 id="将分支克隆到本地"><a href="#将分支克隆到本地" class="headerlink" title="将分支克隆到本地"></a>将分支克隆到本地</h5><blockquote><p>这里注意,尽量不要和原博客文件夹在同一路径,如果像我一样库名称和本地文件夹名称相同会出问题(实在不懂什么意思就把原博客文件夹备份一下,出问题还能救)</p></blockquote><p><img src="/posts/63977/update%20(4).png"></p><h5 id="把克隆下来的文件夹内的-git文件夹全部复制到博客文件夹"><a href="#把克隆下来的文件夹内的-git文件夹全部复制到博客文件夹" class="headerlink" title="把克隆下来的文件夹内的.git文件夹全部复制到博客文件夹"></a>把克隆下来的文件夹内的<code>.git</code>文件夹全部复制到博客文件夹</h5><blockquote><p>如果看不到<code>.git</code>文件夹就去 windows 此电脑-查看-隐藏的项目勾选上</p></blockquote><p><img src="/posts/63977/update%20(5).png"></p><h5 id="将文件添加到暂存区-以下命令均在原博客文件夹执行"><a href="#将文件添加到暂存区-以下命令均在原博客文件夹执行" class="headerlink" title="将文件添加到暂存区 (以下命令均在原博客文件夹执行)"></a>将文件添加到暂存区 (以下命令均在原博客文件夹执行)</h5><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">git add .</span><br></pre></td></tr></table></figure><h5 id="提交到本地仓库"><a href="#提交到本地仓库" class="headerlink" title="提交到本地仓库"></a>提交到本地仓库</h5><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">git commit -m &quot;backup&quot;</span><br></pre></td></tr></table></figure><h5 id="推送到backup分支"><a href="#推送到backup分支" class="headerlink" title="推送到backup分支"></a>推送到<code>backup</code>分支</h5><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">git push origin backup</span><br></pre></td></tr></table></figure><h4 id="新电脑"><a href="#新电脑" class="headerlink" title="新电脑"></a>新电脑</h4><h5 id="将分支克隆到本地-1"><a href="#将分支克隆到本地-1" class="headerlink" title="将分支克隆到本地"></a>将分支克隆到本地</h5><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">git clone 仓库地址</span><br></pre></td></tr></table></figure><h5 id="安装依赖"><a href="#安装依赖" class="headerlink" title="安装依赖"></a>安装依赖</h5><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">npm install</span><br></pre></td></tr></table></figure><h4 id="所有电脑每次更新"><a href="#所有电脑每次更新" class="headerlink" title="所有电脑每次更新"></a>所有电脑每次更新</h4><h5 id="都要执行以下指令"><a href="#都要执行以下指令" class="headerlink" title="都要执行以下指令"></a>都要执行以下指令</h5><p>(修改完成后直接点击下面代码块右上角<code>Copy</code>全部粘贴到 Git Bash 即可)</p><blockquote><p>请注意，是每次更新都要执行以下指令，单纯的 hexo g -d 是无法同步源文件的</p></blockquote><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br></pre></td><td class="code"><pre><span class="line">hexo cl</span><br><span class="line">git pull</span><br><span class="line">git add -A</span><br><span class="line">git commit -m &quot;backup&quot;</span><br><span class="line">git push origin backup</span><br><span class="line">hexo g -d</span><br><span class="line">hexo cl</span><br><span class="line"></span><br></pre></td></tr></table></figure><p>现已不推荐此方案，可通过 action 自动化实现更好的备份效果</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Hexo </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Notes </tag>
+            
+            <tag> Hexo </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>hexo最新安装教程</title>
+      <link href="/posts/39317.html"/>
+      <url>/posts/39317.html</url>
+      
+        <content type="html"><![CDATA[<p><img src="/posts/39317/hexotheme.webp"><br>hexo 博客安装全过程</p><span id="more"></span><blockquote><p><strong>注意:安装过程中 cmd 指命令提示符 都用管理员身份打开，避免出现乱七八糟的权限问题！！！</strong></p></blockquote><blockquote><p>安装包<br>NodejsLTS<br>Git</p></blockquote><h4 id="nodejs-安装"><a href="#nodejs-安装" class="headerlink" title="nodejs 安装"></a>nodejs 安装</h4><p>直接默认配置，next 到底，不要修改路径</p><blockquote><p>注意<br>不是水文章，此教程之前的版本也是更换路径，但是报错的概率会很大，需要配置环境变量解决，干脆直接默认安装，环境变量会自动配置</p></blockquote><h4 id="git-安装"><a href="#git-安装" class="headerlink" title="git 安装"></a>git 安装</h4><p>依然是 next 到底</p><h4 id="通过-ssh-keys-绑定-GitHub"><a href="#通过-ssh-keys-绑定-GitHub" class="headerlink" title="通过 ssh keys 绑定 GitHub"></a>通过 ssh keys 绑定 GitHub</h4><p>1.注册 GitHub<br>提示填啥就填啥，注册个账户 2.登录进去以后，点击 new，新建一个仓库<br><img src="/posts/39317/github.webp"><br>存储库名称格式必须为</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">&quot;username&quot;.github.io</span><br></pre></td></tr></table></figure><blockquote><p>“username”是自己的 github 用户名</p></blockquote><p><img src="/posts/39317/github1.webp"> 3.打开 cmd，执行以下指令生成 ssh key</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">ssh-keygen -t rsa -C &quot;username@email.com&quot;</span><br></pre></td></tr></table></figure><blockquote><p>“<a href="mailto:&#x75;&#x73;&#101;&#x72;&#x6e;&#97;&#109;&#x65;&#x40;&#x65;&#109;&#97;&#x69;&#x6c;&#x2e;&#x63;&#x6f;&#x6d;">&#x75;&#x73;&#101;&#x72;&#x6e;&#97;&#109;&#x65;&#x40;&#x65;&#109;&#97;&#x69;&#x6c;&#x2e;&#x63;&#x6f;&#x6d;</a>“是 github 账户绑定的邮箱</p></blockquote><p>回车直到生成<br>密钥生成的目录为</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">C:\Users\&quot;username&quot;\.ssh</span><br></pre></td></tr></table></figure><p><img src="/posts/39317/ssh.webp"> 4.通过记事本或者编辑器打开<br>摁下[ctrl + a]全选，复制<br>打开 GitHub 并登录，点击头像 ➡Settings➡SSH and GPG keys➡New SSH key<br><img src="/posts/39317/ssh1.webp"> 5.绑定 ssh keys</p><blockquote><p>title 随便写<br>Key 将刚才复制的密钥粘贴进去<br>点击 Add SSH Key</p></blockquote><p>6.在命令提示符 cmd 中原封不动输入以下指令</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">ssh -T git@github.com</span><br></pre></td></tr></table></figure><p>若回复为 Hi “你的 GitHub 用户名”则为绑定成功<br><img src="/posts/39317/ssh2.webp"></p><h4 id="hexo-安装"><a href="#hexo-安装" class="headerlink" title="hexo 安装"></a>hexo 安装</h4><p>1.以管理员身份打开 cmd，执行 hexo 全局安装指令</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">npm install hexo-cli -g</span><br></pre></td></tr></table></figure><!--> 欸，不出意外的话有可能是要报错了> 这里会提示'npm 不是内部或者外部命令'> 解决方案> 打开系统变量 → 用户变量> 添加 nodejs 的安装目录`D:\Develop\nodejs` > ![](2022hexo最新安装教程/xiufu01.png) --><p>2.输入以下指令检测 hexo 是否安装成功</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">hexo -v</span><br></pre></td></tr></table></figure><p>3.在 D 盘新建一个 blog 文件夹,并进入 4.在 blog 文件夹下，右键 ➡Git Bash Here,进入命令行工具<br><img src="/posts/39317/hexo.webp"> 5.输入初始化命令，如果是前面 nodejs 是默认配置安装的，这里一般不会出问题，如果有问题大概率是网络问题</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">hexo init</span><br></pre></td></tr></table></figure><blockquote><p><strong>第一种情况</strong> 它提示执行<code>npm install</code>,这里我们去 C 盘删掉图上的文件<code>.npmrc</code></p></blockquote><p><img src="/posts/39317/hexo.npmrc.png"></p><blockquote><p><strong>第二种情况</strong> 一般来说，除了提示<code>npm install</code>的情况,其他的大概率是网络问题<br>解决方案 1：清除缓存，多试几次<br>解决方案 2：用”科学”或者”魔法”</p></blockquote><p><img src="/posts/39317/hexo1.webp"></p><p>6.以下为初始化成功提示<br><img src="/posts/39317/hexo2.webp"> 7.打开 blog 文件夹下的”_config.yml”hexo 配置文件，拉到最底部</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line">deploy:</span><br><span class="line">  type: git</span><br><span class="line">  repo: git@github.com:0god23/0god23.github.io.git</span><br><span class="line">  branch: main</span><br></pre></td></tr></table></figure><blockquote><p>“: “后边均有一个空格，请不要删除</p></blockquote><blockquote><p>repo: 请修改为自己创建的 GitHub 仓库的 ssh url 克隆链接<br>如图<br><img src="/posts/39317/hexo3.webp"></p></blockquote><p>8.执行<code>hexo g</code>生成本地静态文件<br><img src="/posts/39317/hexo4.webp"> 9.执行以下命令安装 hexo-deplayer-git 依赖</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">npm install hexo-deployer-git --save</span><br></pre></td></tr></table></figure><p>执行一下<code>hexo d</code></p><p>这里有可能会出一个小问题，他会提示你验证 github，按照下面指令修改执行就可以</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">git config --global user.name &quot;Your Name&quot;</span><br><span class="line">git config --global user.email &quot;you@example.com&quot;</span><br></pre></td></tr></table></figure><blockquote><p>“Your Name”是自己的用户名<br>“you@example_com”是 github 绑定的邮箱</p></blockquote><p>10.执行<code>hexo d</code>部署到 GitHub 仓库，这里会有一个弹窗提示登陆 github 账号，登录即可<br><img src="/posts/39317/hexo5.webp"> 11.稍等几分钟即可部署生效<br>访如下网址</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">username.github.io</span><br></pre></td></tr></table></figure><blockquote><p>“username”是自己 github 的用户名</p></blockquote><h1 id="end"><a href="#end" class="headerlink" title="end"></a><del>end</del></h1>]]></content>
+      
+      
+      <categories>
+          
+          <category> Hexo </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Notes </tag>
+            
+            <tag> Hexo </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>hello world</title>
+      <link href="/posts/14785.html"/>
+      <url>/posts/14785.html</url>
+      
+        <content type="html"><![CDATA[<p><strong>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</strong></p><span id="more"></span><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://0god.me/">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://0god.me/">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://0god.me/">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://0god.me/">Deployment</a></p><p><img src="/posts/14785/img/alipay.png"></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Hello World </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Hello World </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+  
+  
+</search>
