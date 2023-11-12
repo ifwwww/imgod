@@ -1,0 +1,16 @@
+@media screen and (min-width: 900px) {
+  html.hide-aside .layout > div:first-child {
+    width: 65%;
+  }
+}
+.cardHover,
+.error404 #error-wrap .error-content,
+.layout > div:first-child:not(.recent-posts),
+#recent-posts > .recent-post-item,
+#aside-content .card-widget,
+.layout > .recent-posts .pagination > *:not(.space) {
+  border-radius: 20px;
+}
+#recent-posts > .recent-post-item:not(:first-child) {
+  margin-top: 40px;
+}
